@@ -1,0 +1,196 @@
+---
+title: '**STOR 566: Intro to Deep Learning**'
+geometry: margin=2
+output:
+  prettydoc::html_pretty:
+    theme: architect
+  html_document:
+    toc: yes
+    df_print: paged
+  pdf_document:
+    toc: yes
+---
+
+<style type="text/css">
+
+div {
+color: #13294B;
+}
+
+#TOC {
+  color: #4B9CD3;
+}
+
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+  color: #4B9CD3;
+  background-color: #13294B;
+}
+
+a:link {
+    color: #4B9CD3;
+    text-decoration: none;
+}
+
+a:visited {
+        text-decoration: none;
+color: #4B9CD3;
+
+}
+a:hover {
+color: #4B9CD3;
+background-color: #13294B;
+}
+
+.main-container {
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+} 
+
+</style>
+
+# **About the Course**
+
+See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networks (DNNs) have been widely used for tackling numerous machine learning problems that were once believed to be challenging. With their remarkable ability of fitting training data, DNNs have achieved revolutionary successes in many fields such as computer vision, natural language progressing, and robotics. This is an introduction course to deep learning. Topics covered by this course include but are not limited to:
+
+1. Machine Learning Overview
+2. Optimization
+3. MLP, CNN, RNN, GNN
+4. Generative models
+5. Advanced topics
+
+- Instructor: **[Yao Li](https://liyao880.github.io/yaoli/)**
+
+- Instructional Assistants: 
+    - **[TBA](https://stor.unc.edu/people/graduate-students/)**
+
+- Class: TTH 8:00AM-9:15AM, Sitterson F009
+    
+- Office Hours:
+    - Instructor Office Hours: TBA, Hanes 334
+    - TA Office Hours: 
+
+
+# **Course Material**
+
+| Date | Lecture | Slides | Tutorial|
+|------|------------------|-------:|-----:|
+|Aug. 16| Welcome |[Slides](Lecture/Lecture01/)| |
+|Aug. 18| Overview of Deep Learning |[Slides]()| |
+|Aug. 23| Linear Regression and Classification |[Slides]()| |
+|Aug. 25| Optimization |[Slides]()| |
+|Aug. 30| Optimization |[Slides]()| |
+|Sep. 01| Kernel Methods |[Slides]()| |
+|Sep. 06| Well-Being Day || |
+|Sep. 08| Theory of Generalization |[Slides]()| |
+|Sep. 13| Project Proposal Discussion || |
+|Sep. 15| Project Proposal Discussion || |
+|Sep. 20| VC Dimension |[Slides]()| |
+|Sep. 22| Tree-based Methods |[Slides]()| |
+|Sep. 27| Neural Networks |[Slides]()| |
+|Sep. 29| Convolutional Neural Networks |[Slides]()| |
+|Oct. 04| Generative Models |[Slides]()| |
+|Oct. 06| Recurrent Neural Networks |[Slides]()| |
+|Oct. 11| GRU and LSTM |[Slides]()| |
+|Oct. 13| NLP Pre-training |[Slides]()| |
+|Oct. 18| Graph Neural Networks |[Slides]()| |
+|Oct. 20| Transformer and BERT |[Slides]()| |
+|Oct. 25| Vision Transformer |[Slides]()| |
+|Oct. 27| Fall Break || |
+|Nov. 01| Semi-supervised, Self-supervised Learning |[Slides]()| |
+|Nov. 03| Adversarial Attack |[Slides]()| |
+|Nov. 08| Adversarial Defense |[Slides]()| |
+|Nov. 10| Poisoning Attack |[Slides]()| |
+|Nov. 15| Federated Learning |[Slides]()| |
+|Nov. 17| Reinforcement Learning |[Slides]()| |
+|Nov. 22| Final Presentation || |
+|Nov. 24| Thanksgiving || |
+|Nov. 29| Final Presentation || |
+
+
+# **Homework Tracker**
+
+All homework assignments are to be submitted via **[Sakai](https://sakai.unc.edu/welcome/)**. Late homework will receive a grade of **0**.
+
+| Date assigned | Instructions | Due Date (Time) |
+|----------|:--------:|:-------------:|----------------:|
+| Sep. 01  | [HW1]()([.py]()) |  Sep. 11 (11:55 PM) |
+| Sep. 22  | [HW2]()([.py]()) |  Oct. 02 (11:55 PM) |
+| Oct. 06  | [HW3]()([.py]()) |  Oct. 16 (11:55 PM) |
+| Oct. 20  | [HW4]()([.py]()) |  Oct. 30 (11:55 PM) |
+| Nov. 10  | [HW5]()([.py]()) |  Nov. 20 (11:55 PM) |
+|          |        |           |
+
+# **Final Project Details**
+
+This course includes a final project in lieu of a final exam. Projects will be completed in groups of **four** and consist of:
+
+- Project Proposal (10%)
+- Project Presentation (30%)
+- Project Paper (50%)
+- Peer Review Score (10%)
+
+## Group List
+
+Please form the final project group before **August 30th**, and sign up using the shared **[spreadsheet](https://docs.google.com/spreadsheets/d/1tbKkaZUSgc5aJsr4jqzF2ylP9AOmOGH2t2P95ZOgPp8/edit?usp=sharing)**. Please don't modify the record of other groups.
+
+## Four Parts Including Point Values
+
+I will meet with each group to discuss the final project topic. Project topics can be:
+
+- Solve an interesting or new problem with existing method
+- Develop a new algorithm/model
+- Compare state-of-the-art algorithms on some problems
+- ...
+
+**P1: Project Proposal** *(10 Points):* The project proposal is limited to 2-page and contains:
+
+- Problem to solve
+- Review of existing studies in this field
+- Your proposed method or Methods you would like to compare
+- Evaluation metric
+
+**P2: Project Presentation** *(30 Points):* All groups will present their final projects during the last week or two weeks of classes. Every group member is expected to join the presentation. The length of the presentation depends on the number of groups (10–20min) and will be announced later.
+    
+**P3: Project Paper** *(50 Points):* Each team must submit a written project report. It is recommended to include a discussion of how your research work can be further extended. It is required to use the [NeurIPS Latex style files](https://neurips.cc/Conferences/2022/PaperInformation/StyleFiles) and submit the report in PDF format. The report should be less than 8 pages without references (no minimum requirement).
+
+**P4: Peer Score** *(10 Points):* Ten points of the final project is based on an average score measuring overall contribution as seen by you and the other members of your group. Each group member should score every person in their group on a continuous scale from 0 (Bad) to 10 (Good). Before the due date of the final paper, every member is required to submit the group scoring through the google survey link below. Your name and this information will remain private between me and you. If you fail to submit this group scoring before the deadline, 2 points penalty will be applied and I will give the other members a score of 10.
+
+- [Peer Scoring]()
+
+    
+## Due Dates of Individual Parts
+
+| Part | Description |Method of Submission| Due Date (Time) |
+|------|-------------|-------------------|----------------:|
+| P1  | Project Proposal | Sakai | Sep. 11 (11:55PM)|
+|   | Proposal Meeting | Class | Sep. 13 / Sep. 15 (8:00AM-9:15AM)|
+| P2  | Presentation Slides |Sakai| Nov. 21 / Nov. 28 (11:55PM)|
+|   | Final Presentation|Class| Nov. 22 / Nov. 29 (8:00AM-9:15AM)|
+| P3  | Final Report|Sakai|Dec. 02 (11:55PM)|
+||||
+
+# **Class Participation Record**
+
+To find your class participation record, see the **[spreadsheet]()**.
+
+
+# **Reading**
+
+- **[Deep Learning](https://www.deeplearningbook.org/)**, by Ian Goodfellow, Yoshua Bengio, Aaron Courville. 
+- **[Deep learning theory lecture note](https://mjt.cs.illinois.edu/dlt/)**, by Matus Telgarsky.
+- **[Foundations of machine learning ](https://cs.nyu.edu/~mohri/mlbook/)**, by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar.
+
+
+This page was last updated on `r Sys.time()` Eastern Time.
