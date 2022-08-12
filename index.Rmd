@@ -72,9 +72,10 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 
 - Instructor: **[Yao Li](https://liyao880.github.io/yaoli/)**
 
-- Instructional Assistants: 
-    - **[Minji Kim](https://stor.unc.edu/people/graduate-students/)**
+- Teaching Assistant: **[Minji Kim](https://stor.unc.edu/people/graduate-students/)**
 
+- Grader: **[Zheng Bao]()**
+    
 - Class: TTH 8:00AM-9:15AM, Sitterson F009
     
 - Office Hours:
