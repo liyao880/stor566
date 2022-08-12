@@ -73,7 +73,7 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 - Instructor: **[Yao Li](https://liyao880.github.io/yaoli/)**
 
 - Instructional Assistants: 
-    - **[TBA](https://stor.unc.edu/people/graduate-students/)**
+    - **[Minji Kim](https://stor.unc.edu/people/graduate-students/)**
 
 - Class: TTH 8:00AM-9:15AM, Sitterson F009
     
@@ -87,36 +87,36 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 | Date | Lecture | Slides | Tutorial|
 |------|------------------|-------:|-----:|
 |Aug. 16| Welcome |[Slides](Lecture/Lecture01/)| |
-|Aug. 18| Overview of Deep Learning |[Slides]()| |
+|Aug. 18| Overview of Machine Learning |[Slides]()| Colab|
 |Aug. 23| Linear Regression and Classification |[Slides]()| |
 |Aug. 25| Optimization |[Slides]()| |
-|Aug. 30| Optimization |[Slides]()| |
-|Sep. 01| Kernel Methods |[Slides]()| |
+|Aug. 30| Neural Networks |[Slides]()| |
+|Sep. 01| Convolutional Neural Networks |[Slides]()| |
 |Sep. 06| Well-Being Day || |
-|Sep. 08| Theory of Generalization |[Slides]()| |
+|Sep. 08| Kernel Methods |[Slides]()| HW1 Review|
 |Sep. 13| Project Proposal Discussion || |
 |Sep. 15| Project Proposal Discussion || |
-|Sep. 20| VC Dimension |[Slides]()| |
-|Sep. 22| Tree-based Methods |[Slides]()| |
-|Sep. 27| Neural Networks |[Slides]()| |
-|Sep. 29| Convolutional Neural Networks |[Slides]()| |
+|Sep. 20| Recurrent Neural Networks |[Slides]()| |
+|Sep. 22| GRU and LSTM |[Slides]()|HW2 Review |
+|Sep. 27| NLP Pre-training |[Slides]()| |
+|Sep. 29| Graph Neural Networks |[Slides]()| |
 |Oct. 04| Generative Models |[Slides]()| |
-|Oct. 06| Recurrent Neural Networks |[Slides]()| |
-|Oct. 11| GRU and LSTM |[Slides]()| |
-|Oct. 13| NLP Pre-training |[Slides]()| |
-|Oct. 18| Graph Neural Networks |[Slides]()| |
-|Oct. 20| Transformer and BERT |[Slides]()| |
-|Oct. 25| Vision Transformer |[Slides]()| |
+|Oct. 06| Transformer |[Slides]()| HW3 Review|
+|Oct. 11| Vision Transformer |[Slides]()| |
+|Oct. 13| Reinforcement Learning |[Slides]()| |
+|Oct. 18| Federated Learning |[Slides]()| HW4 Review |
+|Oct. 20| Neural Architecture Search |[Slides]()| |
+|Oct. 25| Theory of Generalization |[Slides]()| |
 |Oct. 27| Fall Break || |
-|Nov. 01| Semi-supervised, Self-supervised Learning |[Slides]()| |
-|Nov. 03| Adversarial Attack |[Slides]()| |
-|Nov. 08| Adversarial Defense |[Slides]()| |
-|Nov. 10| Poisoning Attack |[Slides]()| |
-|Nov. 15| Federated Learning |[Slides]()| |
-|Nov. 17| Reinforcement Learning |[Slides]()| |
+|Nov. 01| Adversarial Attack |[Slides]()| |
+|Nov. 03| Adversarial Defense |[Slides]()| |
+|Nov. 08| Poisoning and Backdoor Attack |[Slides]()| |
+|Nov. 10| Explainable Machine Learning |[Slides]()| |
+|Nov. 15| Fairness |[Slides]()| HW5 Review|
+|Nov. 17| Final Presentation || |
 |Nov. 22| Final Presentation || |
 |Nov. 24| Thanksgiving || |
-|Nov. 29| Final Presentation || |
+|Nov. 29| Paper Writing || |
 
 
 # **Homework Tracker**
@@ -125,11 +125,11 @@ All homework assignments are to be submitted via **[Sakai](https://sakai.unc.edu
 
 | Date assigned | Instructions | Due Date (Time) |
 |----------|:--------:|:-------------:|----------------:|
-| Sep. 01  | [HW1]()([.py]()) |  Sep. 11 (11:55 PM) |
-| Sep. 22  | [HW2]()([.py]()) |  Oct. 02 (11:55 PM) |
-| Oct. 06  | [HW3]()([.py]()) |  Oct. 16 (11:55 PM) |
-| Oct. 20  | [HW4]()([.py]()) |  Oct. 30 (11:55 PM) |
-| Nov. 10  | [HW5]()([.py]()) |  Nov. 20 (11:55 PM) |
+| Aug. 25  | [HW1]()([.py]()) |  Sep. 04 (11:55 PM) |
+| Sep. 08  | [HW2]()([.py]()) |  Sep. 18 (11:55 PM) |
+| Sep. 22  | [HW3]()([.py]()) |  Oct. 02 (11:55 PM) |
+| Oct. 06  | [HW4]()([.py]()) |  Oct. 16 (11:55 PM) |
+| Nov. 03  | [HW5]()([.py]()) |  Nov. 13 (11:55 PM) |
 |          |        |           |
 
 # **Final Project Details**
@@ -176,9 +176,9 @@ I will meet with each group to discuss the final project topic. Project topics c
 |------|-------------|-------------------|----------------:|
 | P1  | Project Proposal | Sakai | Sep. 11 (11:55PM)|
 |   | Proposal Meeting | Class | Sep. 13 / Sep. 15 (8:00AM-9:15AM)|
-| P2  | Presentation Slides |Sakai| Nov. 21 / Nov. 28 (11:55PM)|
-|   | Final Presentation|Class| Nov. 22 / Nov. 29 (8:00AM-9:15AM)|
-| P3  | Final Report|Sakai|Dec. 02 (11:55PM)|
+| P2  | Presentation Slides |Sakai| Nov. 16 / Nov. 21 (11:55PM)|
+|   | Final Presentation|Class| Nov. 17 / Nov. 22 (8:00AM-9:15AM)|
+| P3  | Final Report|Sakai|Nov. 30 (11:55PM)|
 ||||
 
 # **Class Participation Record**
