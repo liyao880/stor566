@@ -78,8 +78,8 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 - Class: TTH 8:00AM-9:15AM, Sitterson F009
     
 - Office Hours:
-    - Instructor Office Hours: TBA, Hanes 334
-    - TA Office Hours: 
+    - Instructor Office Hours: TTH 11:00AM-12:00PM, Hanes 334
+    - TA Office Hours: W 10:00AM-12:00PM, [Zoom](https://zoom.us/j/5869650522?pwd=bHJOcnVscFIvblJaSk5idFVuWXFXUT09)
 
 
 # **Course Material**
@@ -143,7 +143,7 @@ This course includes a final project in lieu of a final exam. Projects will be c
 
 ## Group List
 
-Please form the final project group before **August 30th**, and sign up using the shared **[spreadsheet](https://docs.google.com/spreadsheets/d/1tbKkaZUSgc5aJsr4jqzF2ylP9AOmOGH2t2P95ZOgPp8/edit?usp=sharing)**. Please don't modify the record of other groups.
+Please form the final project group before **August 30th**, and sign up using the shared **[spreadsheet](https://docs.google.com/spreadsheets/d/1tbKkaZUSgc5aJsr4jqzF2ylP9AOmOGH2t2P95ZOgPp8/edit?usp=sharing)**. Please don't modify the information of other groups.
 
 ## Four Parts Including Point Values
 
