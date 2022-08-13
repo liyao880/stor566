@@ -155,12 +155,15 @@ I will meet with each group to discuss the final project topic. Project topics c
 - Compare state-of-the-art algorithms on some problems
 - ...
 
-**P1: Project Proposal** *(10 Points):* The project proposal is limited to 2-page and contains:
+**P1: Project Proposal** *(10 Points):* The project proposal is limited to 2-page (excluding reference) and contains:
 
 - Problem to solve
 - Review of existing studies in this field
 - Your proposed method or Methods you would like to compare
 - Evaluation metric
+- Reference
+
+See latex template at [link](https://drive.google.com/file/d/16uQ-fbVysshhh13xvnpNy5GYPAMcplDK/view?usp=sharing).
 
 **P2: Project Presentation** *(30 Points):* All groups will present their final projects during the last week or two weeks of classes. Every group member is expected to join the presentation. The length of the presentation depends on the number of groups (10–20min) and will be announced later.
     
@@ -168,19 +171,19 @@ I will meet with each group to discuss the final project topic. Project topics c
 
 **P4: Peer Score** *(10 Points):* Ten points of the final project is based on an average score measuring overall contribution as seen by you and the other members of your group. Each group member should score every person in their group on a continuous scale from 0 (Bad) to 10 (Good). Before the due date of the final paper, every member is required to submit the group scoring through the google survey link below. Your name and this information will remain private between me and you. If you fail to submit this group scoring before the deadline, 2 points penalty will be applied and I will give the other members a score of 10.
 
-- [Peer Scoring]()
+- [Peer Scoring](https://docs.google.com/forms/d/e/1FAIpQLSe6K7eXb6OiOHrJtTfQLffRg3AMKJN_vaehMdC2F85Hj5RlIQ/viewform?usp=sf_link)
 
     
 ## Due Dates of Individual Parts
 
-| Part | Description |Method of Submission| Due Date (Time) |
-|------|-------------|-------------------|----------------:|
+| Part | Description |Method (Location) of Submission| Due Date (Time) |
+|------|-------------|-------------|---------------------:|
 | P1  | Project Proposal | Sakai | Sep. 11 (11:55PM)|
-|   | Proposal Meeting | Class | Sep. 13 / Sep. 15 (8:00AM-9:15AM)|
+|   | Proposal Meeting | Hanes 334 | Sep. 13 / Sep. 15 (8:00AM-9:15AM)|
 | P2  | Presentation Slides |Sakai| Nov. 16 / Nov. 21 (11:55PM)|
 |   | Final Presentation|Class| Nov. 17 / Nov. 22 (8:00AM-9:15AM)|
 | P3  | Final Report|Sakai|Nov. 30 (11:55PM)|
-||||
+| P4  | Peer Scoring|[Google Survey](https://docs.google.com/forms/d/e/1FAIpQLSe6K7eXb6OiOHrJtTfQLffRg3AMKJN_vaehMdC2F85Hj5RlIQ/viewform?usp=sf_link)|Nov. 30 (11:55PM)|
 
 # **Class Participation Record**
 
