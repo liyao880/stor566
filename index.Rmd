@@ -106,9 +106,9 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Oct. 11| Vision Transformer |[Slides]()| |
 |Oct. 13| Reinforcement Learning |[Slides]()| |
 |Oct. 18| Federated Learning |[Slides]()| HW4 Review |
-|Oct. 20| Neural Architecture Search |[Slides]()| |
+|Oct. 20| Fall Break |[Slides]()| |
 |Oct. 25| Theory of Generalization |[Slides]()| |
-|Oct. 27| Fall Break || |
+|Oct. 27| Neural Architecture Search || |
 |Nov. 01| Adversarial Attack |[Slides]()| |
 |Nov. 03| Adversarial Defense |[Slides]()| |
 |Nov. 08| Poisoning and Backdoor Attack |[Slides]()| |
