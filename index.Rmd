@@ -91,24 +91,24 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Aug. 18| Overview of Machine Learning |[Slides]()| Colab|
 |Aug. 23| Linear Regression and Classification |[Slides]()| |
 |Aug. 25| Optimization |[Slides]()| |
-|Aug. 30| Neural Networks |[Slides]()| |
-|Sep. 01| Convolutional Neural Networks |[Slides]()| |
+|Aug. 30| Kernel Methods |[Slides]()| |
+|Sep. 01| Neural Networks |[Slides]()| |
 |Sep. 06| Well-Being Day || |
-|Sep. 08| Kernel Methods |[Slides]()| HW1 Review|
-|Sep. 13| Project Proposal Discussion || |
-|Sep. 15| Project Proposal Discussion || |
-|Sep. 20| Recurrent Neural Networks |[Slides]()| |
-|Sep. 22| GRU and LSTM |[Slides]()|HW2 Review |
-|Sep. 27| NLP Pre-training |[Slides]()| |
-|Sep. 29| Graph Neural Networks |[Slides]()| |
+|Sep. 08| Convolutional Neural Networks |[Slides]()| HW1 Review|
+|Sep. 13| Recurrent Neural Networks |[Slides]()| |
+|Sep. 15| GRU and LSTM |[Slides]()| |
+|Sep. 20| NLP Pre-training |[Slides]()| |
+|Sep. 22| Graph Neural Networks |[Slides]()| HW2 Review|
+|Sep. 27| Project Proposal Discussion || |
+|Sep. 29| Project Proposal Discussion || |
 |Oct. 04| Generative Models |[Slides]()| |
 |Oct. 06| Transformer |[Slides]()| HW3 Review|
 |Oct. 11| Vision Transformer |[Slides]()| |
 |Oct. 13| Reinforcement Learning |[Slides]()| |
 |Oct. 18| Federated Learning |[Slides]()| HW4 Review |
-|Oct. 20| Fall Break |[Slides]()| |
+|Oct. 20| Fall Break || |
 |Oct. 25| Theory of Generalization |[Slides]()| |
-|Oct. 27| Neural Architecture Search || |
+|Oct. 27| Neural Architecture Search |[Slides]()| |
 |Nov. 01| Adversarial Attack |[Slides]()| |
 |Nov. 03| Adversarial Defense |[Slides]()| |
 |Nov. 08| Poisoning and Backdoor Attack |[Slides]()| |
@@ -178,8 +178,8 @@ See latex template at [link](https://drive.google.com/file/d/16uQ-fbVysshhh13xvn
 
 | Part | Description |Method (Location) of Submission| Due Date (Time) |
 |------|-------------|-------------|---------------------:|
-| P1  | Project Proposal | Sakai | Sep. 11 (11:55PM)|
-|   | Proposal Meeting | Hanes 334 | Sep. 13 / Sep. 15 (8:00AM-9:15AM)|
+| P1  | Project Proposal | Sakai | Sep. 25 (11:55PM)|
+|   | Proposal Meeting | Hanes 334 | Sep. 27 / Sep. 29 (8:00AM-9:15AM)|
 | P2  | Presentation Slides |Sakai| Nov. 16 / Nov. 21 (11:55PM)|
 |   | Final Presentation|Class| Nov. 17 / Nov. 22 (8:00AM-9:15AM)|
 | P3  | Final Report|Sakai|Nov. 30 (11:55PM)|
