@@ -88,7 +88,7 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 | Date | Lecture | Slides | Tutorial|
 |------|------------------|-------:|-----:|
 |Aug. 16| Welcome |[Slides](Lecture/Lecture01_Course_Overview.pdf)| |
-|Aug. 18| Overview of Machine Learning |[Slides](Lecture/Lecture_02_Overview_of_Machine_Learning.pdf)| Colab|
+|Aug. 18| Overview of Machine Learning |[Slides](Lecture/Lecture_02_Overview_of_Machine_Learning.pdf)| [Colab](https://colab.research.google.com/drive/1B_qdVSwEnyJLt5xh8FvGJkVMB1bBKJRG?usp=sharing)|
 |Aug. 23| Linear Regression and Classification |[Slides]()| |
 |Aug. 25| Optimization |[Slides]()| |
 |Aug. 30| Kernel Methods |[Slides]()| |
