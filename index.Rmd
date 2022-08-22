@@ -89,31 +89,31 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |------|------------------|-------:|-----:|
 |Aug. 16| Welcome |[Slides](Lecture/Lecture01_Course_Overview.pdf)| |
 |Aug. 18| Overview of Machine Learning |[Slides](Lecture/Lecture_02_Overview_of_Machine_Learning.pdf)| [Colab](https://colab.research.google.com/drive/1B_qdVSwEnyJLt5xh8FvGJkVMB1bBKJRG?usp=sharing)|
-|Aug. 23| Linear Regression and Classification |[Slides]()| |
+|Aug. 23| Linear Regression and Classification |[Slides](Lecture/Lecture_03_Linear_Regression.pdf)| |
 |Aug. 25| Optimization |[Slides]()| |
-|Aug. 30| Kernel Methods |[Slides]()| |
-|Sep. 01| Neural Networks |[Slides]()| |
+|Aug. 30| Kernel Methods || |
+|Sep. 01| Neural Networks || |
 |Sep. 06| Well-Being Day || |
-|Sep. 08| Convolutional Neural Networks |[Slides]()| HW1 Review|
-|Sep. 13| Recurrent Neural Networks |[Slides]()| |
-|Sep. 15| GRU and LSTM |[Slides]()| |
-|Sep. 20| NLP Pre-training |[Slides]()| |
-|Sep. 22| Graph Neural Networks |[Slides]()| HW2 Review|
+|Sep. 08| Convolutional Neural Networks || HW1 Review|
+|Sep. 13| Recurrent Neural Networks || |
+|Sep. 15| GRU and LSTM || |
+|Sep. 20| NLP Pre-training || |
+|Sep. 22| Graph Neural Networks || HW2 Review|
 |Sep. 27| Project Proposal Discussion || |
 |Sep. 29| Project Proposal Discussion || |
-|Oct. 04| Generative Models |[Slides]()| |
-|Oct. 06| Transformer |[Slides]()| HW3 Review|
-|Oct. 11| Vision Transformer |[Slides]()| |
-|Oct. 13| Reinforcement Learning |[Slides]()| |
-|Oct. 18| Federated Learning |[Slides]()| HW4 Review |
+|Oct. 04| Generative Models || |
+|Oct. 06| Transformer || HW3 Review|
+|Oct. 11| Vision Transformer || |
+|Oct. 13| Reinforcement Learning || |
+|Oct. 18| Federated Learning || HW4 Review |
 |Oct. 20| Fall Break || |
-|Oct. 25| Theory of Generalization |[Slides]()| |
-|Oct. 27| Neural Architecture Search |[Slides]()| |
-|Nov. 01| Adversarial Attack |[Slides]()| |
-|Nov. 03| Adversarial Defense |[Slides]()| |
-|Nov. 08| Poisoning and Backdoor Attack |[Slides]()| |
-|Nov. 10| Explainable Machine Learning |[Slides]()| |
-|Nov. 15| Fairness |[Slides]()| HW5 Review|
+|Oct. 25| Theory of Generalization || |
+|Oct. 27| Neural Architecture Search || |
+|Nov. 01| Adversarial Attack || |
+|Nov. 03| Adversarial Defense || |
+|Nov. 08| Poisoning and Backdoor Attack || |
+|Nov. 10| Explainable Machine Learning || |
+|Nov. 15| Fairness || HW5 Review|
 |Nov. 17| Final Presentation || |
 |Nov. 22| Final Presentation || |
 |Nov. 24| Thanksgiving || |
