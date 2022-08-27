@@ -91,7 +91,7 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Aug. 18| Overview of Machine Learning |[Slides](Lecture/Lecture_02_Overview_of_Machine_Learning.pdf)| [Colab](https://colab.research.google.com/drive/1B_qdVSwEnyJLt5xh8FvGJkVMB1bBKJRG?usp=sharing)|
 |Aug. 23| Linear Regression and Classification |[Slides](Lecture/Lecture_03_Linear_Regression.pdf)| |
 |Aug. 25| Optimization |[Slides](Lecture/Lecture_04_Optimization.pdf)| |
-|Aug. 30| Kernel Methods || |
+|Aug. 30| Kernel Methods |[Slides](Lecture/Lecture_05_Kernel_Methods.pdf)| |
 |Sep. 01| Neural Networks || |
 |Sep. 06| Well-Being Day || |
 |Sep. 08| Convolutional Neural Networks || HW1 Review|
@@ -185,11 +185,9 @@ See latex template at [link](https://drive.google.com/file/d/16uQ-fbVysshhh13xvn
 | P3  | Final Report|Sakai|Nov. 30 (11:55PM)|
 | P4  | Peer Scoring|[Google Survey](https://docs.google.com/forms/d/e/1FAIpQLSe6K7eXb6OiOHrJtTfQLffRg3AMKJN_vaehMdC2F85Hj5RlIQ/viewform?usp=sf_link)|Nov. 30 (11:55PM)|
 
-# **Class Participation Record**
+# **Paper Presentation**
 
-To find your class participation record, see the **[spreadsheet]()**.
-
-Check the **[paper list](https://docs.google.com/spreadsheets/d/1tiBDotzZuKuhykqfu_OJy6SHJcWqVwCtgX7pWOYP_vA/edit?usp=sharing)** for extra credit opportunity.
+Check the **[paper list](https://docs.google.com/spreadsheets/d/1tiBDotzZuKuhykqfu_OJy6SHJcWqVwCtgX7pWOYP_vA/edit?usp=sharing)** for paper presentation opportunity.
 
 # **Reading**
 
