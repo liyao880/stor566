@@ -92,7 +92,7 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Aug. 23| Linear Regression and Classification |[Slides](Lecture/Lecture_03_Linear_Regression.pdf)| |
 |Aug. 25| Optimization |[Slides](Lecture/Lecture_04_Optimization.pdf)| |
 |Aug. 30| Kernel Methods |[Slides](Lecture/Lecture_05_Kernel_Methods.pdf)| |
-|Sep. 01| Neural Networks || |
+|Sep. 01| Neural Networks |[Slides](Lecture/Lecture_06_Neural_Networks.pdf)| |
 |Sep. 06| Well-Being Day || |
 |Sep. 08| Convolutional Neural Networks || HW1 Review|
 |Sep. 13| Recurrent Neural Networks || |
