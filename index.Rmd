@@ -193,7 +193,7 @@ Check the **[paper list](https://docs.google.com/spreadsheets/d/1tiBDotzZuKuhykq
 
 - **[Deep Learning](https://www.deeplearningbook.org/)**, by Ian Goodfellow, Yoshua Bengio, Aaron Courville. 
 - **[Deep learning theory lecture note](https://mjt.cs.illinois.edu/dlt/)**, by Matus Telgarsky.
-- **[Foundations of machine learning ](https://cs.nyu.edu/~mohri/mlbook/)**, by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar.
-
+- **[Foundations of machine learning](https://cs.nyu.edu/~mohri/mlbook/)**, by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar.
+- **[Convex optimization](https://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)**, by Stephen Boyd, and Lieven Vandenberghe.
 
 This page was last updated on `r Sys.time()` Eastern Time.
