@@ -126,7 +126,7 @@ All homework assignments are to be submitted via **[Sakai](https://sakai.unc.edu
 
 | Date assigned | Instructions | Due Date (Time) |
 |----------|:--------:|:-------------:|----------------:|
-| Aug. 25  | [HW1](https://drive.google.com/drive/folders/1eLEDBbeqPZwN5PViA49rw7y80LoPqEww?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1aeAj02QomfLWbxjSWgdNAqtmwCHilN1F?usp=sharing)) |  Sep. 04 (11:55 PM) |
+| Aug. 25  | [HW1](https://drive.google.com/drive/folders/1eLEDBbeqPZwN5PViA49rw7y80LoPqEww?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1aeAj02QomfLWbxjSWgdNAqtmwCHilN1F?usp=sharing)) |  Sep. 07 (11:55 PM) |
 | Sep. 08  | [HW2]()([.py]()) |  Sep. 18 (11:55 PM) |
 | Sep. 22  | [HW3]()([.py]()) |  Oct. 02 (11:55 PM) |
 | Oct. 06  | [HW4]()([.py]()) |  Oct. 16 (11:55 PM) |
