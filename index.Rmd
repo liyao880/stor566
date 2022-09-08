@@ -94,17 +94,17 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Aug. 30| Kernel Methods |[Slides](Lecture/Lecture_05_Kernel_Methods.pdf)| |
 |Sep. 01| Neural Networks |[Slides](Lecture/Lecture_06_Neural_Networks.pdf)| |
 |Sep. 06| Well-Being Day || |
-|Sep. 08| Convolutional Neural Networks || HW1 Review|
-|Sep. 13| Recurrent Neural Networks || |
-|Sep. 15| GRU and LSTM || |
-|Sep. 20| NLP Pre-training || |
-|Sep. 22| Graph Neural Networks || HW2 Review|
+|Sep. 08| Convolutional Neural Networks I |[Slides](Lecture/Lecture_07_CNN.pdf)| [HW1 Review](https://colab.research.google.com/drive/1aeAj02QomfLWbxjSWgdNAqtmwCHilN1F?usp=sharing)|
+|Sep. 13| Convolutional Neural Networks II || |
+|Sep. 15| Recurrent Neural Networks|| |
+|Sep. 20| GRU and LSTM || |
+|Sep. 22| NLP Pre-training || HW2 Review|
 |Sep. 27| Project Proposal Discussion || |
 |Sep. 29| Project Proposal Discussion || |
-|Oct. 04| Generative Models || |
-|Oct. 06| Transformer || HW3 Review|
-|Oct. 11| Vision Transformer || |
-|Oct. 13| Reinforcement Learning || |
+|Oct. 04| Graph Neural Networks || |
+|Oct. 06| Generative Models|| HW3 Review|
+|Oct. 11| Transformer || |
+|Oct. 13| Vision Transformer || |
 |Oct. 18| Federated Learning || HW4 Review |
 |Oct. 20| Fall Break || |
 |Oct. 25| Theory of Generalization || |
@@ -127,7 +127,7 @@ All homework assignments are to be submitted via **[Sakai](https://sakai.unc.edu
 | Date assigned | Instructions | Due Date (Time) |
 |----------|:--------:|:-------------:|----------------:|
 | Aug. 25  | [HW1](https://drive.google.com/drive/folders/1eLEDBbeqPZwN5PViA49rw7y80LoPqEww?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1aeAj02QomfLWbxjSWgdNAqtmwCHilN1F?usp=sharing)) |  Sep. 07 (11:55 PM) |
-| Sep. 08  | [HW2]()([.py]()) |  Sep. 18 (11:55 PM) |
+| Sep. 08  | [HW2](https://drive.google.com/drive/folders/1SG9W7V2i4yhSzWupKapFwV5qm7KeKVef?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1d-t3fDdkvdC3s5HUV4qn3O-gQ3mH7DwC?usp=sharing)) |  Sep. 18 (11:55 PM) |
 | Sep. 22  | [HW3]()([.py]()) |  Oct. 02 (11:55 PM) |
 | Oct. 06  | [HW4]()([.py]()) |  Oct. 16 (11:55 PM) |
 | Nov. 03  | [HW5]()([.py]()) |  Nov. 13 (11:55 PM) |
