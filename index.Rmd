@@ -86,7 +86,7 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 # **Course Material**
 
 | Date | Lecture | Slides | Tutorial|
-|------|------------------|-------:|-----:|
+|------|------------------|-------:|-------------:|
 |Aug. 16| Welcome |[Slides](Lecture/Lecture01_Course_Overview.pdf)| |
 |Aug. 18| Overview of Machine Learning |[Slides](Lecture/Lecture_02_Overview_of_Machine_Learning.pdf)| [Colab](https://colab.research.google.com/drive/1B_qdVSwEnyJLt5xh8FvGJkVMB1bBKJRG?usp=sharing)|
 |Aug. 23| Linear Regression and Classification |[Slides](Lecture/Lecture_03_Linear_Regression.pdf)| |
@@ -94,7 +94,7 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Aug. 30| Kernel Methods |[Slides](Lecture/Lecture_05_Kernel_Methods.pdf)| |
 |Sep. 01| Neural Networks |[Slides](Lecture/Lecture_06_Neural_Networks.pdf)| |
 |Sep. 06| Well-Being Day || |
-|Sep. 08| Convolutional Neural Networks I |[Slides](Lecture/Lecture_07_CNN.pdf)| [HW1 Review](https://colab.research.google.com/drive/1aeAj02QomfLWbxjSWgdNAqtmwCHilN1F?usp=sharing)|
+|Sep. 08| Convolutional Neural Networks I |[Slides](Lecture/Lecture_07_CNN.pdf)| [HW1 Recap & HW2 Guide](https://colab.research.google.com/drive/1jtAnF4i551QKOd1AYTGWmrZsRYnasQ9y?usp=sharing)|
 |Sep. 13| Convolutional Neural Networks II |[Slides](Lecture/Lecture_08_CNN_II.pdf)| |
 |Sep. 15| Recurrent Neural Networks|[Slides](Lecture/Lecture_09_RNN.pdf)| |
 |Sep. 20| GRU and LSTM || |
