@@ -97,7 +97,7 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Sep. 08| Convolutional Neural Networks I |[Slides](Lecture/Lecture_07_CNN.pdf)| [HW1 Recap & HW2 Guide](https://colab.research.google.com/drive/1jtAnF4i551QKOd1AYTGWmrZsRYnasQ9y?usp=sharing)|
 |Sep. 13| Convolutional Neural Networks II |[Slides](Lecture/Lecture_08_CNN_II.pdf)| |
 |Sep. 15| Recurrent Neural Networks|[Slides](Lecture/Lecture_09_RNN.pdf)| |
-|Sep. 20| GRU and LSTM || |
+|Sep. 20| GRU and LSTM |[Slides](Lecture/Lecture_10_LSTM_and_GRU.pdf)| |
 |Sep. 22| NLP Pre-training || HW2 Review|
 |Sep. 27| Project Proposal Discussion || |
 |Sep. 29| Project Proposal Discussion || |
