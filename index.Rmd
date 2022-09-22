@@ -128,7 +128,7 @@ All homework assignments are to be submitted via **[Sakai](https://sakai.unc.edu
 |----------|:--------:|:-------------:|----------------:|
 | Aug. 25  | [HW1](https://drive.google.com/drive/folders/1eLEDBbeqPZwN5PViA49rw7y80LoPqEww?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1aeAj02QomfLWbxjSWgdNAqtmwCHilN1F?usp=sharing)) |  Sep. 07 (11:55 PM) |
 | Sep. 08  | [HW2](https://drive.google.com/drive/folders/1SG9W7V2i4yhSzWupKapFwV5qm7KeKVef?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1d-t3fDdkvdC3s5HUV4qn3O-gQ3mH7DwC?usp=sharing)) |  Sep. 18 (11:55 PM) |
-| Sep. 22  | [HW3]()([.py]()) |  Oct. 02 (11:55 PM) |
+| Sep. 22  | [HW3](https://drive.google.com/drive/folders/10rEevuA6iatidLyKLy9-rggI6PasI0wW?usp=sharing)([.ipynb](https://colab.research.google.com/drive/137JacA8aCc0-SmhfZrJ9UgoEQI8EgDY6?usp=sharing)) |  Oct. 02 (11:55 PM) |
 | Oct. 06  | [HW4]()([.py]()) |  Oct. 16 (11:55 PM) |
 | Nov. 03  | [HW5]()([.py]()) |  Nov. 13 (11:55 PM) |
 |          |        |           |
