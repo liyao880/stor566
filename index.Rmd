@@ -101,8 +101,8 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Sep. 22| NLP Pre-training |[Slides](Lecture/Lecture_11_NLP_Pre_training.pdf)| HW2 Review|
 |Sep. 27| Project Proposal Discussion || |
 |Sep. 29| Project Proposal Discussion || |
-|Oct. 04| Graph Neural Networks || |
-|Oct. 06| Generative Models|| HW3 Review|
+|Oct. 04| Generative Models |[Slides](Lecture/Lecture_12_Generative_Models.pdf)| |
+|Oct. 06| Graph Neural Networks|| HW3 Review|
 |Oct. 11| Transformer || |
 |Oct. 13| Vision Transformer || |
 |Oct. 18| Federated Learning || HW4 Review |
