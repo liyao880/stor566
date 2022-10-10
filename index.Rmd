@@ -109,11 +109,11 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Oct. 20| Fall Break || |
 |Oct. 25| Transformer || |
 |Oct. 27| Vision Transformer || |
-|Nov. 01| Federated Learning || |
+|Nov. 01| Federated Learning || HW5 Review|
 |Nov. 03| Neural Architecture Search || |
 |Nov. 08| Poisoning and Backdoor Attack || |
 |Nov. 10| Explainable Machine Learning || |
-|Nov. 15| Fairness || HW5 Review|
+|Nov. 15| Fairness || |
 |Nov. 17| Final Presentation || |
 |Nov. 22| Final Presentation || |
 |Nov. 24| Thanksgiving || |
@@ -130,7 +130,7 @@ All homework assignments are to be submitted via **[Sakai](https://sakai.unc.edu
 | Sep. 08  | [HW2](https://drive.google.com/drive/folders/1SG9W7V2i4yhSzWupKapFwV5qm7KeKVef?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1d-t3fDdkvdC3s5HUV4qn3O-gQ3mH7DwC?usp=sharing)) |  Sep. 18 (11:55 PM) |
 | Sep. 22  | [HW3](https://drive.google.com/drive/folders/10rEevuA6iatidLyKLy9-rggI6PasI0wW?usp=sharing)([.ipynb](https://colab.research.google.com/drive/137JacA8aCc0-SmhfZrJ9UgoEQI8EgDY6?usp=sharing)) |  Oct. 02 (11:55 PM) |
 | Oct. 06  | [HW4](https://drive.google.com/drive/folders/1qgJzqdm_TLh6KgKovG_9sxT5qLsJQ-jU?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1M4ixWZtzj6mUkKm6U8fH0jICBHk2OClt?usp=sharing)) |  Oct. 16 (11:55 PM) |
-| Nov. 03  | [HW5]()([.py]()) |  Nov. 13 (11:55 PM) |
+| Oct. 18  | [HW5]()([.py]()) |  Oct. 30 (11:55 PM) |
 |          |        |           |
 
 # **Final Project Details**
