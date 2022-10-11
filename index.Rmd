@@ -103,7 +103,7 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Sep. 29| Project Proposal Discussion || |
 |Oct. 04| Generative Models I |[Slides](Lecture/Lecture_12_Generative_Models.pdf)| |
 |Oct. 06| Generative Models II|[Slides](Lecture/Lecture_13_Generative_Models_II.pdf)| HW3 Review|
-|Oct. 11| Adversarial Attack || |
+|Oct. 11| Adversarial Attack |[Slides](Lecture/Lecture_14_Adversarial_Attack.pdf)| |
 |Oct. 13| Adversarial Defense || |
 |Oct. 18| Graph Neural Networks || HW4 Review |
 |Oct. 20| Fall Break || |
