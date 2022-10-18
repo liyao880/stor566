@@ -105,9 +105,9 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Oct. 06| Generative Models II|[Slides](Lecture/Lecture_13_Generative_Models_II.pdf)| HW3 Review|
 |Oct. 11| Adversarial Attack |[Slides](Lecture/Lecture_14_Adversarial_Attack.pdf)| |
 |Oct. 13| Adversarial Defense |[Slides](Lecture/Lecture_15_Adversarial_Defense.pdf)| |
-|Oct. 18| Graph Neural Networks || HW4 Review |
+|Oct. 18| Graph Neural Networks |[Slides](Lecture/Lecture_16_Graph_Convolutional_Network.pdf)| |
 |Oct. 20| Fall Break || |
-|Oct. 25| Transformer || |
+|Oct. 25| Transformer || HW4 Review |
 |Oct. 27| Vision Transformer || |
 |Nov. 01| Federated Learning || HW5 Review|
 |Nov. 03| Neural Architecture Search || |
