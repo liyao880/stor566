@@ -107,13 +107,13 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Oct. 13| Adversarial Defense |[Slides](Lecture/Lecture_15_Adversarial_Defense.pdf)| |
 |Oct. 18| Graph Neural Networks |[Slides](Lecture/Lecture_16_Graph_Convolutional_Network.pdf)| |
 |Oct. 20| Fall Break || |
-|Oct. 25| Transformer || HW4 Review |
-|Oct. 27| Vision Transformer || |
-|Nov. 01| Federated Learning || HW5 Review|
-|Nov. 03| Neural Architecture Search || |
-|Nov. 08| Poisoning and Backdoor Attack || |
-|Nov. 10| Explainable Machine Learning || |
-|Nov. 15| Fairness || |
+|Oct. 25| Tutorial || HW4 Review |
+|Oct. 27| Transformer |[Slides](Lecture/Lecture_17_Transformer.pdf)| |
+|Nov. 01| Vision Transformer || |
+|Nov. 03| Federated Learning || HW5 Review|
+|Nov. 08| Neural Architecture Search || |
+|Nov. 10| Poisoning and Backdoor Attack || |
+|Nov. 15| Explainable Machine Learning || |
 |Nov. 17| Final Presentation || |
 |Nov. 22| Final Presentation || |
 |Nov. 24| Thanksgiving || |
