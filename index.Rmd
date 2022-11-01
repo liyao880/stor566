@@ -109,7 +109,7 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Oct. 20| Fall Break || |
 |Oct. 25| Tutorial || HW4 Review |
 |Oct. 27| Transformer |[Slides](Lecture/Lecture_17_Transformer.pdf)| |
-|Nov. 01| Vision Transformer || |
+|Nov. 01| Vision Transformer |[Slides](Lecture/Lecture_18_Transformers_for_Vision.pdf)| |
 |Nov. 03| Federated Learning || HW5 Review|
 |Nov. 08| Neural Architecture Search || |
 |Nov. 10| Poisoning and Backdoor Attack || |
