@@ -113,7 +113,7 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Nov. 03| Federated Learning |[Slides](Lecture/Lecture_19_Federated_Learning.pdf)| HW5 Review|
 |Nov. 08| Neural Architecture Search |[Slides](Lecture/Lecture_20_Neural_Architecture_Search.pdf)||
 |Nov. 10| Poisoning Attack |[Slides](Lecture/Lecture_21_Poisoning_and_Backdoor_Attack.pdf)| |
-|Nov. 15| Explainable Machine Learning || |
+|Nov. 15| Explainable Machine Learning |[Slides](Lecture/Lecture_22_Explainable_AI.pdf)| |
 |Nov. 17| Final Presentation || |
 |Nov. 22| Final Presentation || |
 |Nov. 24| Thanksgiving || |
