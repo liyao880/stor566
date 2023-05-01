@@ -144,7 +144,7 @@ This course includes a final project in lieu of a final exam. Projects will be c
 
 ## Group List
 
-Please form the final project group before **August 30th**, and sign up using the shared **[spreadsheet](https://docs.google.com/spreadsheets/d/1tbKkaZUSgc5aJsr4jqzF2ylP9AOmOGH2t2P95ZOgPp8/edit?usp=sharing)**. Please don't modify the information of other groups.
+Please form the final project group before **August 30th**, and sign up using the shared **[spreadsheet]()**. Please don't modify the information of other groups.
 
 ## Four Parts Including Point Values
 
@@ -183,7 +183,7 @@ See latex template at [link](https://drive.google.com/file/d/16uQ-fbVysshhh13xvn
 | P2  | Presentation Slides |Sakai| Nov. 16 / Nov. 21 (11:55PM)|
 |   | Final Presentation|Class| Nov. 17 / Nov. 22 (8:00AM-9:15AM)|
 | P3  | Final Report|Sakai|Nov. 30 (11:55PM)|
-| P4  | Peer Scoring|[Google Survey](https://docs.google.com/forms/d/e/1FAIpQLSe6K7eXb6OiOHrJtTfQLffRg3AMKJN_vaehMdC2F85Hj5RlIQ/viewform?usp=sf_link)|Nov. 30 (11:55PM)|
+| P4  | Peer Scoring|[Google Survey]()|Nov. 30 (11:55PM)|
 
 # **Paper Presentation**
 
