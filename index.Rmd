@@ -171,7 +171,7 @@ See latex template at [link](https://drive.google.com/file/d/16uQ-fbVysshhh13xvn
 
 **P4: Peer Score** *(10 Points):* Ten points of the final project is based on an average score measuring overall contribution as seen by you and the other members of your group. Each group member should score every person in their group on a continuous scale from 0 (Bad) to 10 (Good). Before the due date of the final paper, every member is required to submit the group scoring through the google survey link below. Your name and this information will remain private between me and you. If you fail to submit this group scoring before the deadline, 2 points penalty will be applied and I will give the other members a score of 10.
 
-- [Peer Scoring](https://docs.google.com/forms/d/e/1FAIpQLSe6K7eXb6OiOHrJtTfQLffRg3AMKJN_vaehMdC2F85Hj5RlIQ/viewform?usp=sf_link)
+- [Peer Scoring]()
 
     
 ## Due Dates of Individual Parts
@@ -187,7 +187,7 @@ See latex template at [link](https://drive.google.com/file/d/16uQ-fbVysshhh13xvn
 
 # **Paper Presentation**
 
-Check the **[paper list](https://docs.google.com/spreadsheets/d/1tiBDotzZuKuhykqfu_OJy6SHJcWqVwCtgX7pWOYP_vA/edit?usp=sharing)** for paper presentation opportunity.
+Check the **[paper list]()** for paper presentation opportunity.
 
 # **Reading**
 
