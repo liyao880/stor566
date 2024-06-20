@@ -72,65 +72,65 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 
 - Instructor: **[Yao Li](https://liyao880.github.io/yaoli/)**
 
-- Teaching Assistant: **[Minji Kim](https://stor.unc.edu/people/graduate-students/)**
+- Teaching Assistant: **[TBA](https://stor.unc.edu/people/graduate-students/)**
 
-- Grader: **[Zheng Bao]()**
+- Grader: **[TBA]()**
     
-- Class: TTH 8:00AM-9:15AM, Sitterson F009
+- Class: TTH 3:30PM-4:45AM, Hanes 120
     
 - Office Hours:
-    - Instructor Office Hours: TTH 11:00AM-12:00PM, Hanes 334
-    - TA Office Hours: W 10:00AM-12:00PM, [Zoom](https://unc.zoom.us/j/8481044233?pwd=L2sydjFGcUR1N212ZzFReGFFTHZUZz09)
+    - Instructor Office Hours: W 4:00PM-5:00PM, Hanes 334
+    - TA Office Hours: W 10:00AM-12:00PM
 
 
 # **Course Material**
 
 | Date | Lecture | Slides | Tutorial|
 |------|------------------|-------:|-------------:|
-|Aug. 16| Welcome |[Slides](Lecture/Lecture01_Course_Overview.pdf)| |
-|Aug. 18| Overview of Machine Learning |[Slides](Lecture/Lecture_02_Overview_of_Machine_Learning.pdf)| [Colab](https://colab.research.google.com/drive/1B_qdVSwEnyJLt5xh8FvGJkVMB1bBKJRG?usp=sharing)|
-|Aug. 23| Linear Regression and Classification |[Slides](Lecture/Lecture_03_Linear_Regression.pdf)| |
-|Aug. 25| Optimization |[Slides](Lecture/Lecture_04_Optimization.pdf)| |
-|Aug. 30| Kernel Methods |[Slides](Lecture/Lecture_05_Kernel_Methods.pdf)| |
-|Sep. 01| Neural Networks |[Slides](Lecture/Lecture_06_Neural_Networks.pdf)| |
-|Sep. 06| Well-Being Day || |
-|Sep. 08| Convolutional Neural Networks I |[Slides](Lecture/Lecture_07_CNN.pdf)| [HW1 Recap & HW2 Guide](https://colab.research.google.com/drive/1jtAnF4i551QKOd1AYTGWmrZsRYnasQ9y?usp=sharing)|
-|Sep. 13| Convolutional Neural Networks II |[Slides](Lecture/Lecture_08_CNN_II.pdf)| |
-|Sep. 15| Recurrent Neural Networks|[Slides](Lecture/Lecture_09_RNN.pdf)| |
-|Sep. 20| GRU and LSTM |[Slides](Lecture/Lecture_10_LSTM_and_GRU.pdf)| |
-|Sep. 22| NLP Pre-training |[Slides](Lecture/Lecture_11_NLP_Pre_training.pdf)| HW2 Review|
-|Sep. 27| Project Proposal Discussion || |
-|Sep. 29| Project Proposal Discussion || |
-|Oct. 04| Generative Models I |[Slides](Lecture/Lecture_12_Generative_Models.pdf)| |
-|Oct. 06| Generative Models II|[Slides](Lecture/Lecture_13_Generative_Models_II.pdf)| HW3 Review|
-|Oct. 11| Adversarial Attack |[Slides](Lecture/Lecture_14_Adversarial_Attack.pdf)| |
-|Oct. 13| Adversarial Defense |[Slides](Lecture/Lecture_15_Adversarial_Defense.pdf)| |
-|Oct. 18| Graph Neural Networks |[Slides](Lecture/Lecture_16_Graph_Convolutional_Network.pdf)| |
-|Oct. 20| Fall Break || |
-|Oct. 25| Tutorial || HW4 Review |
-|Oct. 27| Transformer |[Slides](Lecture/Lecture_17_Transformer.pdf)| |
-|Nov. 01| Vision Transformer |[Slides](Lecture/Lecture_18_Transformers_for_Vision.pdf)| |
-|Nov. 03| Federated Learning |[Slides](Lecture/Lecture_19_Federated_Learning.pdf)| HW5 Review|
-|Nov. 08| Neural Architecture Search |[Slides](Lecture/Lecture_20_Neural_Architecture_Search.pdf)||
-|Nov. 10| Poisoning Attack |[Slides](Lecture/Lecture_21_Poisoning_and_Backdoor_Attack.pdf)| |
-|Nov. 15| Explainable Machine Learning |[Slides](Lecture/Lecture_22_Explainable_AI.pdf)| |
-|Nov. 17| Final Presentation || |
-|Nov. 22| Final Presentation || |
-|Nov. 24| Thanksgiving || |
-|Nov. 29| Paper Writing || |
+|Aug. 20| Welcome |[Slides](Lecture/Lecture01_Course_Overview.pdf)| |
+|Aug. 22| Overview of Machine Learning |[Slides](Lecture/Lecture_02_Overview_of_Machine_Learning.pdf)| [Colab](https://colab.research.google.com/drive/1B_qdVSwEnyJLt5xh8FvGJkVMB1bBKJRG?usp=sharing)|
+|Aug. 27| Linear Regression and Classification |[Slides](Lecture/Lecture_03_Linear_Regression.pdf)| |
+|Aug. 29| Optimization |[Slides](Lecture/Lecture_04_Optimization.pdf)| |
+|Sep. 03| Well-Being Day || |
+|Sep. 05| Kernel Methods |[Slides](Lecture/Lecture_05_Kernel_Methods.pdf)| |
+|Sep. 10| Neural Networks |[Slides](Lecture/Lecture_06_Neural_Networks.pdf)| |
+|Sep. 12| Convolutional Neural Networks I |[Slides](Lecture/Lecture_07_CNN.pdf)| HW1 Recap & HW2 Guide|
+|Sep. 17| Convolutional Neural Networks II |[Slides](Lecture/Lecture_08_CNN_II.pdf)| |
+|Sep. 19| Recurrent Neural Networks|[Slides](Lecture/Lecture_09_RNN.pdf)| |
+|Sep. 24| GRU and LSTM |[Slides](Lecture/Lecture_10_LSTM_and_GRU.pdf)| |
+|Sep. 26| NLP Pre-training |[Slides](Lecture/Lecture_11_NLP_Pre_training.pdf)| HW2 Review|
+|Oct. 01| Project Proposal Discussion || |
+|Oct. 03| Project Proposal Discussion || |
+|Oct. 08| Generative Models I |[Slides](Lecture/Lecture_12_Generative_Models.pdf)| |
+|Oct. 10| Generative Models II|[Slides](Lecture/Lecture_13_Generative_Models_II.pdf)| HW3 Review|
+|Oct. 15| Adversarial Attack |[Slides](Lecture/Lecture_14_Adversarial_Attack.pdf)| |
+|Oct. 17| Fall Break || |
+|Oct. 22| Adversarial Defense |[Slides](Lecture/Lecture_15_Adversarial_Defense.pdf)| |
+|Oct. 24| Graph Neural Networks |[Slides](Lecture/Lecture_16_Graph_Convolutional_Network.pdf)| |
+|Oct. 29| Tutorial || HW4 Review |
+|Oct. 31| Transformer |[Slides](Lecture/Lecture_17_Transformer.pdf)| |
+|Nov. 05| Vision Transformer |[Slides](Lecture/Lecture_18_Transformers_for_Vision.pdf)| |
+|Nov. 07| Federated Learning |[Slides](Lecture/Lecture_19_Federated_Learning.pdf)| HW5 Review|
+|Nov. 12| Neural Architecture Search |[Slides](Lecture/Lecture_20_Neural_Architecture_Search.pdf)||
+|Nov. 14| Poisoning Attack |[Slides](Lecture/Lecture_21_Poisoning_and_Backdoor_Attack.pdf)| |
+|Nov. 19| Explainable Machine Learning |[Slides](Lecture/Lecture_22_Explainable_AI.pdf)| |
+|Nov. 21| Final Presentation || |
+|Nov. 26| Final Presentation || |
+|Nov. 28| Thanksgiving || |
+|Dec. 03| Paper Writing || |
 
 
 # **Homework Tracker**
 
-All homework assignments are to be submitted via **[Sakai](https://sakai.unc.edu/welcome/)**. Late homework will receive a grade of **0**.
+All homework assignments are to be submitted via **[Canvas](https://edtech.unc.edu/service/canvas/)**. Late homework will receive a grade of **0**.
 
 | Date assigned | Instructions | Due Date (Time) |
 |----------|:--------:|:-------------:|----------------:|
-| Aug. 25  | [HW1](https://drive.google.com/drive/folders/1eLEDBbeqPZwN5PViA49rw7y80LoPqEww?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1aeAj02QomfLWbxjSWgdNAqtmwCHilN1F?usp=sharing)) |  Sep. 07 (11:55 PM) |
-| Sep. 08  | [HW2](https://drive.google.com/drive/folders/1SG9W7V2i4yhSzWupKapFwV5qm7KeKVef?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1d-t3fDdkvdC3s5HUV4qn3O-gQ3mH7DwC?usp=sharing)) |  Sep. 18 (11:55 PM) |
-| Sep. 22  | [HW3](https://drive.google.com/drive/folders/10rEevuA6iatidLyKLy9-rggI6PasI0wW?usp=sharing)([.ipynb](https://colab.research.google.com/drive/137JacA8aCc0-SmhfZrJ9UgoEQI8EgDY6?usp=sharing)) |  Oct. 02 (11:55 PM) |
-| Oct. 06  | [HW4](https://drive.google.com/drive/folders/1qgJzqdm_TLh6KgKovG_9sxT5qLsJQ-jU?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1M4ixWZtzj6mUkKm6U8fH0jICBHk2OClt?usp=sharing)) |  Oct. 16 (11:55 PM) |
-| Oct. 18  | [HW5](https://drive.google.com/drive/folders/1grxJzdFhhdpc-SFQIKkhqRTVSwktJMSF?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1oXiE4r4lyTTJoJn_BPbI4YfeVbOTbhar?usp=sharing)) |  Oct. 30 (11:55 PM) |
+| Aug. 29  | [HW1]()([.ipynb]()) |  Sep. 08 (11:55 PM) |
+| Sep. 12  | [HW2]()([.ipynb]()) |  Sep. 22 (11:55 PM) |
+| Sep. 26  | [HW3]()([.ipynb]()) |  Oct. 06 (11:55 PM) |
+| Oct. 10  | [HW4]()([.ipynb]()) |  Oct. 20 (11:55 PM) |
+| Oct. 22  | [HW5]()([.ipynb]()) |  Nov. 03 (11:55 PM) |
 |          |        |           |
 
 # **Final Project Details**
@@ -178,11 +178,11 @@ See latex template at [link](https://drive.google.com/file/d/16uQ-fbVysshhh13xvn
 
 | Part | Description |Method (Location) of Submission| Due Date (Time) |
 |------|-------------|-------------|---------------------:|
-| P1  | Project Proposal | Sakai | Sep. 25 (11:55PM)|
-|   | Proposal Meeting | Hanes 334 | Sep. 27 / Sep. 29 (8:00AM-9:15AM)|
-| P2  | Presentation Slides |Sakai| Nov. 16 / Nov. 21 (11:55PM)|
-|   | Final Presentation|Class| Nov. 17 / Nov. 22 (8:00AM-9:15AM)|
-| P3  | Final Report|Sakai|Nov. 30 (11:55PM)|
+| P1  | Project Proposal | Canvas | Sep. 25 (11:55PM)|
+|   | Proposal Meeting | Hanes 334 | Sep. 27 / Sep. 29 (3:30PM-4:45PM)|
+| P2  | Presentation Slides |Canvas| Nov. 16 / Nov. 21 (11:55PM)|
+|   | Final Presentation|Class| Nov. 17 / Nov. 22 (3:30PM-4:45PM)|
+| P3  | Final Report|Canvas|Nov. 30 (11:55PM)|
 | P4  | Peer Scoring|[Google Survey]()|Nov. 30 (11:55PM)|
 
 # **Paper Presentation**
