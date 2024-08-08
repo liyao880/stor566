@@ -87,33 +87,33 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 
 | Date | Lecture | Slides | Tutorial|
 |------|------------------|-------:|-------------:|
-|Aug. 20| Welcome |[Slides](Lecture/Lecture01_Course_Overview.pdf)| |
-|Aug. 22| Overview of Machine Learning |[Slides](Lecture/Lecture_02_Overview_of_Machine_Learning.pdf)| [Colab](https://colab.research.google.com/drive/1B_qdVSwEnyJLt5xh8FvGJkVMB1bBKJRG?usp=sharing)|
-|Aug. 27| Linear Regression and Classification |[Slides](Lecture/Lecture_03_Linear_Regression.pdf)| |
-|Aug. 29| Optimization |[Slides](Lecture/Lecture_04_Optimization.pdf)| |
+|Aug. 20| Welcome |[Slides]()| |
+|Aug. 22| Overview of Machine Learning |[Slides]()| [Colab](https://colab.research.google.com/drive/1B_qdVSwEnyJLt5xh8FvGJkVMB1bBKJRG?usp=sharing)|
+|Aug. 27| Linear Regression and Classification |[Slides]()| |
+|Aug. 29| Optimization |[Slides]()| |
 |Sep. 03| Well-Being Day || |
-|Sep. 05| Kernel Methods |[Slides](Lecture/Lecture_05_Kernel_Methods.pdf)| |
-|Sep. 10| Neural Networks |[Slides](Lecture/Lecture_06_Neural_Networks.pdf)| |
-|Sep. 12| Convolutional Neural Networks I |[Slides](Lecture/Lecture_07_CNN.pdf)| HW1 Recap & HW2 Guide|
-|Sep. 17| Convolutional Neural Networks II |[Slides](Lecture/Lecture_08_CNN_II.pdf)| |
-|Sep. 19| Recurrent Neural Networks|[Slides](Lecture/Lecture_09_RNN.pdf)| |
-|Sep. 24| GRU and LSTM |[Slides](Lecture/Lecture_10_LSTM_and_GRU.pdf)| |
-|Sep. 26| NLP Pre-training |[Slides](Lecture/Lecture_11_NLP_Pre_training.pdf)| HW2 Review|
+|Sep. 05| Kernel Methods |[Slides]()| |
+|Sep. 10| Neural Networks |[Slides]()| |
+|Sep. 12| Convolutional Neural Networks I |[Slides]()| HW1 Recap & HW2 Guide|
+|Sep. 17| Convolutional Neural Networks II |[Slides]()| |
+|Sep. 19| Recurrent Neural Networks|[Slides]()| |
+|Sep. 24| GRU and LSTM |[Slides]()| |
+|Sep. 26| NLP Pre-training |[Slides]()| HW2 Review|
 |Oct. 01| Project Proposal Discussion || |
 |Oct. 03| Project Proposal Discussion || |
-|Oct. 08| Generative Models I |[Slides](Lecture/Lecture_12_Generative_Models.pdf)| |
-|Oct. 10| Generative Models II|[Slides](Lecture/Lecture_13_Generative_Models_II.pdf)| HW3 Review|
-|Oct. 15| Adversarial Attack |[Slides](Lecture/Lecture_14_Adversarial_Attack.pdf)| |
+|Oct. 08| Generative Models I |[Slides]()| |
+|Oct. 10| Generative Models II|[Slides]()| HW3 Review|
+|Oct. 15| Adversarial Attack |[Slides]()| |
 |Oct. 17| Fall Break || |
-|Oct. 22| Adversarial Defense |[Slides](Lecture/Lecture_15_Adversarial_Defense.pdf)| |
-|Oct. 24| Graph Neural Networks |[Slides](Lecture/Lecture_16_Graph_Convolutional_Network.pdf)| |
+|Oct. 22| Adversarial Defense |[Slides]()| |
+|Oct. 24| Graph Neural Networks |[Slides]()| |
 |Oct. 29| Tutorial || HW4 Review |
-|Oct. 31| Transformer |[Slides](Lecture/Lecture_17_Transformer.pdf)| |
-|Nov. 05| Vision Transformer |[Slides](Lecture/Lecture_18_Transformers_for_Vision.pdf)| |
-|Nov. 07| Federated Learning |[Slides](Lecture/Lecture_19_Federated_Learning.pdf)| HW5 Review|
-|Nov. 12| Neural Architecture Search |[Slides](Lecture/Lecture_20_Neural_Architecture_Search.pdf)||
-|Nov. 14| Poisoning Attack |[Slides](Lecture/Lecture_21_Poisoning_and_Backdoor_Attack.pdf)| |
-|Nov. 19| Explainable Machine Learning |[Slides](Lecture/Lecture_22_Explainable_AI.pdf)| |
+|Oct. 31| Transformer |[Slides]()| |
+|Nov. 05| Vision Transformer |[Slides]()| |
+|Nov. 07| Federated Learning |[Slides]()| HW5 Review|
+|Nov. 12| Neural Architecture Search |[Slides]()||
+|Nov. 14| Poisoning Attack |[Slides]()| |
+|Nov. 19| Explainable Machine Learning |[Slides]()| |
 |Nov. 21| Final Presentation || |
 |Nov. 26| Final Presentation || |
 |Nov. 28| Thanksgiving || |
