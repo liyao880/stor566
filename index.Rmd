@@ -72,15 +72,15 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 
 - Instructor: **[Yao Li](https://liyao880.github.io/yaoli/)**
 
-- Teaching Assistant: **[TBA](https://stor.unc.edu/people/graduate-students/)**
+- Teaching Assistant: **[Kyung Rok Kim](https://stor.unc.edu/people/graduate-students/)**
 
-- Grader: **[TBA]()**
+- Grader: **Chengze Xie**
     
-- Class: TTH 3:30PM-4:45AM, Hanes 120
+- Class: TTH 3:30PM-4:45PM, Hanes 120
     
 - Office Hours:
     - Instructor Office Hours: W 4:00PM-5:00PM, Hanes 334
-    - TA Office Hours: W 10:00AM-12:00PM
+    - TA Office Hours: M 10:00AM-12:00PM, Hanes B48
 
 
 # **Course Material**
