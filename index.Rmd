@@ -87,7 +87,7 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 
 | Date | Lecture | Slides | Tutorial|
 |------|------------------|-------:|-------------:|
-|Aug. 20| Welcome |[Slides]()| |
+|Aug. 20| Welcome |[Slides](Lecture/Lecture_01_Course_Overview.pdf)| |
 |Aug. 22| Overview of Machine Learning |[Slides]()| [Colab](https://colab.research.google.com/drive/1B_qdVSwEnyJLt5xh8FvGJkVMB1bBKJRG?usp=sharing)|
 |Aug. 27| Linear Regression and Classification |[Slides]()| |
 |Aug. 29| Optimization |[Slides]()| |
@@ -126,11 +126,11 @@ All homework assignments are to be submitted via **[Canvas](https://edtech.unc.e
 
 | Date assigned | Instructions | Due Date (Time) |
 |----------|:--------:|:-------------:|----------------:|
-| Aug. 29  | [HW1]()([.ipynb]()) |  Sep. 08 (11:55 PM) |
-| Sep. 12  | [HW2]()([.ipynb]()) |  Sep. 22 (11:55 PM) |
-| Sep. 26  | [HW3]()([.ipynb]()) |  Oct. 06 (11:55 PM) |
-| Oct. 10  | [HW4]()([.ipynb]()) |  Oct. 20 (11:55 PM) |
-| Oct. 22  | [HW5]()([.ipynb]()) |  Nov. 03 (11:55 PM) |
+| Aug. 29  | [HW1]()([.ipynb]()) |  Sep. 08 (11:59 PM) |
+| Sep. 12  | [HW2]()([.ipynb]()) |  Sep. 22 (11:59 PM) |
+| Sep. 26  | [HW3]()([.ipynb]()) |  Oct. 06 (11:59 PM) |
+| Oct. 10  | [HW4]()([.ipynb]()) |  Oct. 20 (11:59 PM) |
+| Oct. 22  | [HW5]()([.ipynb]()) |  Nov. 03 (11:59 PM) |
 |          |        |           |
 
 # **Final Project Details**
@@ -178,12 +178,12 @@ See latex template at [link](https://drive.google.com/file/d/16uQ-fbVysshhh13xvn
 
 | Part | Description |Method (Location) of Submission| Due Date (Time) |
 |------|-------------|-------------|---------------------:|
-| P1  | Project Proposal | Canvas | Sep. 25 (11:55PM)|
-|   | Proposal Meeting | Hanes 334 | Sep. 27 / Sep. 29 (3:30PM-4:45PM)|
-| P2  | Presentation Slides |Canvas| Nov. 16 / Nov. 21 (11:55PM)|
-|   | Final Presentation|Class| Nov. 17 / Nov. 22 (3:30PM-4:45PM)|
-| P3  | Final Report|Canvas|Nov. 30 (11:55PM)|
-| P4  | Peer Scoring|[Google Survey]()|Nov. 30 (11:55PM)|
+| P1  | Project Proposal | Canvas | Sep. 29 (11:59PM)|
+|   | Proposal Meeting | Hanes 334 | Oct. 01 / Oct. 03 (3:30PM-4:45PM)|
+| P2  | Presentation Slides |Canvas| Nov. 20 / Nov. 25 (11:59PM)|
+|   | Final Presentation|Class| Nov. 21 / Nov. 26 (3:30PM-4:45PM)|
+| P3  | Final Report|Canvas|Dec. 04 (11:59PM)|
+| P4  | Peer Scoring|[Google Survey](https://forms.gle/nnroLknTF1N6Eqth7)|Dec. 04 (11:59PM)|
 
 # **Paper Presentation**
 
