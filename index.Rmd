@@ -80,7 +80,7 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
     
 - Office Hours:
     - Instructor Office Hours: W 4:00PM-5:00PM, Hanes 334
-    - TA Office Hours: M 10:00AM-12:00PM, Hanes B48
+    - TA Office Hours: M 10:00AM-12:00PM, [Zoom](https://unc.zoom.us/j/94946966524)
 
 
 # **Course Material**
@@ -126,7 +126,7 @@ All homework assignments are to be submitted via **[Canvas](https://edtech.unc.e
 
 | Date assigned | Instructions | Due Date (Time) |
 |----------|:--------:|:-------------:|----------------:|
-| Aug. 29  | [HW1]()([.ipynb]()) |  Sep. 08 (11:59 PM) |
+| Aug. 29  | [HW1](https://drive.google.com/file/d/1FcJyKkqHLe2-it1DwZ6NhmJW2yh14DyI/view?usp=drive_link)([.ipynb](https://colab.research.google.com/drive/1JctgZulBiKP0aft19oNopkSJF9KR84J2?usp=sharing)) |  Sep. 08 (11:59 PM) |
 | Sep. 12  | [HW2]()([.ipynb]()) |  Sep. 22 (11:59 PM) |
 | Sep. 26  | [HW3]()([.ipynb]()) |  Oct. 06 (11:59 PM) |
 | Oct. 10  | [HW4]()([.ipynb]()) |  Oct. 20 (11:59 PM) |
