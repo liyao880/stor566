@@ -89,31 +89,31 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |------|------------------|-------:|-------------:|
 |Aug. 20| Welcome |[Slides](Lecture/Lecture_01_Course_Overview.pdf)| |
 |Aug. 22| Overview of Machine Learning |[Slides](Lecture/Lecture_02_Overview_of_Machine_Learning.pdf)| [Colab](https://colab.research.google.com/drive/1B_qdVSwEnyJLt5xh8FvGJkVMB1bBKJRG?usp=sharing)|
-|Aug. 27| Linear Regression and Classification |[Slides]()| |
-|Aug. 29| Optimization |[Slides]()| |
+|Aug. 27| Linear Regression and Classification || |
+|Aug. 29| Optimization || |
 |Sep. 03| Well-Being Day || |
-|Sep. 05| Kernel Methods |[Slides]()| |
-|Sep. 10| Neural Networks |[Slides]()| |
-|Sep. 12| Convolutional Neural Networks I |[Slides]()| HW1 Recap & HW2 Guide|
-|Sep. 17| Convolutional Neural Networks II |[Slides]()| |
-|Sep. 19| Recurrent Neural Networks|[Slides]()| |
-|Sep. 24| GRU and LSTM |[Slides]()| |
-|Sep. 26| NLP Pre-training |[Slides]()| HW2 Review|
+|Sep. 05| Kernel Methods || |
+|Sep. 10| Neural Networks || |
+|Sep. 12| Convolutional Neural Networks I || HW1 Recap & HW2 Guide|
+|Sep. 17| Convolutional Neural Networks II || |
+|Sep. 19| Recurrent Neural Networks|| |
+|Sep. 24| GRU and LSTM || |
+|Sep. 26| NLP Pre-training || HW2 Review|
 |Oct. 01| Project Proposal Discussion || |
 |Oct. 03| Project Proposal Discussion || |
-|Oct. 08| Generative Models I |[Slides]()| |
-|Oct. 10| Generative Models II|[Slides]()| HW3 Review|
-|Oct. 15| Adversarial Attack |[Slides]()| |
+|Oct. 08| Generative Models I || |
+|Oct. 10| Generative Models II|| HW3 Review|
+|Oct. 15| Adversarial Attack || |
 |Oct. 17| Fall Break || |
-|Oct. 22| Adversarial Defense |[Slides]()| |
-|Oct. 24| Graph Neural Networks |[Slides]()| |
+|Oct. 22| Adversarial Defense || |
+|Oct. 24| Graph Neural Networks || |
 |Oct. 29| Tutorial || HW4 Review |
-|Oct. 31| Transformer |[Slides]()| |
-|Nov. 05| Vision Transformer |[Slides]()| |
-|Nov. 07| Federated Learning |[Slides]()| HW5 Review|
-|Nov. 12| Neural Architecture Search |[Slides]()||
-|Nov. 14| Poisoning Attack |[Slides]()| |
-|Nov. 19| Explainable Machine Learning |[Slides]()| |
+|Oct. 31| Transformer || |
+|Nov. 05| Vision Transformer || |
+|Nov. 07| Federated Learning || HW5 Review|
+|Nov. 12| Neural Architecture Search |||
+|Nov. 14| Poisoning Attack || |
+|Nov. 19| Explainable Machine Learning || |
 |Nov. 21| Final Presentation || |
 |Nov. 26| Final Presentation || |
 |Nov. 28| Thanksgiving || |
@@ -127,10 +127,10 @@ All homework assignments are to be submitted via **[Canvas](https://edtech.unc.e
 | Date assigned | Instructions | Due Date (Time) |
 |----------|:--------:|:-------------:|----------------:|
 | Aug. 29  | [HW1](https://drive.google.com/file/d/1FcJyKkqHLe2-it1DwZ6NhmJW2yh14DyI/view?usp=drive_link)([.ipynb](https://colab.research.google.com/drive/1JctgZulBiKP0aft19oNopkSJF9KR84J2?usp=sharing)) |  Sep. 08 (11:59 PM) |
-| Sep. 12  | [HW2]()([.ipynb]()) |  Sep. 22 (11:59 PM) |
-| Sep. 26  | [HW3]()([.ipynb]()) |  Oct. 06 (11:59 PM) |
-| Oct. 10  | [HW4]()([.ipynb]()) |  Oct. 20 (11:59 PM) |
-| Oct. 22  | [HW5]()([.ipynb]()) |  Nov. 03 (11:59 PM) |
+| Sep. 12  |  |  Sep. 22 (11:59 PM) |
+| Sep. 26  |  |  Oct. 06 (11:59 PM) |
+| Oct. 10  |  |  Oct. 20 (11:59 PM) |
+| Oct. 22  |  |  Nov. 03 (11:59 PM) |
 |          |        |           |
 
 # **Final Project Details**
