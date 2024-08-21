@@ -101,19 +101,19 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Sep. 26| NLP Pre-training || HW2 Review|
 |Oct. 01| Project Proposal Discussion || |
 |Oct. 03| Project Proposal Discussion || |
-|Oct. 08| Generative Models I || |
-|Oct. 10| Generative Models II|| HW3 Review|
-|Oct. 15| Adversarial Attack || |
+|Oct. 08| Graph Neural Networks || |
+|Oct. 10| Generative Models I || |
+|Oct. 15| Generative Models II|| HW3 Review|
 |Oct. 17| Fall Break || |
-|Oct. 22| Adversarial Defense || |
-|Oct. 24| Graph Neural Networks || |
+|Oct. 22| Adversarial Attack || |
+|Oct. 24| Adversarial Defense || |
 |Oct. 29| Tutorial || HW4 Review |
 |Oct. 31| Transformer || |
 |Nov. 05| Vision Transformer || |
 |Nov. 07| Federated Learning || HW5 Review|
-|Nov. 12| Neural Architecture Search |||
-|Nov. 14| Poisoning Attack || |
-|Nov. 19| Explainable Machine Learning || |
+|Nov. 12| Poisoning Attack |||
+|Nov. 14| Reinforcement Learning || |
+|Nov. 19| Computational Pathology || |
 |Nov. 21| Final Presentation || |
 |Nov. 26| Final Presentation || |
 |Nov. 28| Thanksgiving || |
