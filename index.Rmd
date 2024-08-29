@@ -91,14 +91,14 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Aug. 22| Overview of Machine Learning |[Slides](Lecture/Lecture_02_Overview_of_Machine_Learning.pdf)| [Colab](https://drive.google.com/file/d/1ky_ypXVHpql89OSIMu1M8PF2VRSojVrg/view?usp=sharing)|
 |Aug. 27| Linear Regression and Classification |[Slides](Lecture/Lecture_03_Linear_Regression.pdf)| |
 |Aug. 29| Optimization |[Slides](Lecture/Lecture_04_Optimization.pdf)| |
-|Sep. 03| Well-Being Day || |
-|Sep. 05| Kernel Methods || |
-|Sep. 10| Neural Networks || |
-|Sep. 12| Convolutional Neural Networks I || HW1 Recap & HW2 Guide|
-|Sep. 17| Convolutional Neural Networks II || |
-|Sep. 19| Recurrent Neural Networks|| |
-|Sep. 24| GRU and LSTM || |
-|Sep. 26| NLP Pre-training || HW2 Review|
+|Sept. 03| Well-Being Day || |
+|Sept. 05| Kernel Methods || |
+|Sept. 10| Neural Networks || |
+|Sept. 12| Convolutional Neural Networks I || HW1 Recap & HW2 Guide|
+|Sept. 17| Convolutional Neural Networks II || |
+|Sept. 19| Recurrent Neural Networks|| |
+|Sept. 24| GRU and LSTM || |
+|Sept. 26| NLP Pre-training || HW2 Review|
 |Oct. 01| Project Proposal Discussion || |
 |Oct. 03| Project Proposal Discussion || |
 |Oct. 08| Graph Neural Networks || |
