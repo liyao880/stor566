@@ -94,7 +94,7 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Sep. 03| Well-Being Day || |
 |Sep. 05| Kernel Methods |[Slides](Lecture/Lecture_05_Kernel_Methods.pdf)| |
 |Sep. 10| Neural Networks |[Slides](Lecture/Lecture_06_Neural_Networks.pdf)| |
-|Sep. 12| Convolutional Neural Networks I || |
+|Sep. 12| Convolutional Neural Networks I |[Slides](Lecture/Lecture_07_CNN_I.pdf)| |
 |Sep. 17| Convolutional Neural Networks II || HW1 Recap & HW2 Guide|
 |Sep. 19| Recurrent Neural Networks|| |
 |Sep. 24| GRU and LSTM || |
