@@ -98,10 +98,10 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Sep. 17| Convolutional Neural Networks II || HW1 Recap & HW2 Guide|
 |Sep. 19| Recurrent Neural Networks|| |
 |Sep. 24| GRU and LSTM || |
-|Sep. 26| NLP Pre-training || HW2 Review|
+|Sep. 26| NLP Pre-training || |
 |Oct. 01| Project Proposal Discussion || |
 |Oct. 03| Project Proposal Discussion || |
-|Oct. 08| Graph Neural Networks || |
+|Oct. 08| Graph Neural Networks || HW2 Review|
 |Oct. 10| Generative Models I || |
 |Oct. 15| Generative Models II|| HW3 Review|
 |Oct. 17| Fall Break || |
