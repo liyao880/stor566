@@ -95,7 +95,8 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Sep. 05| Kernel Methods |[Slides](Lecture/Lecture_05_Kernel_Methods.pdf)| |
 |Sep. 10| Neural Networks |[Slides](Lecture/Lecture_06_Neural_Networks.pdf)| |
 |Sep. 12| Convolutional Neural Networks I |[Slides](Lecture/Lecture_07_CNN_I.pdf)| |
-|Sep. 17| Convolutional Neural Networks II |[Example](https://colab.research.google.com/drive/12OTyDqb3mWqOjYzvzlo_p7KWfBTdA-3x?usp=sharing)| HW1 Recap & HW2 Guide|
+|Sep. 17| Convolutional Neural Networks II |[Slides](Lecture/Lecture_08_CNN_II.pdf)| HW1 Review|
+|||[Example](https://colab.research.google.com/drive/12OTyDqb3mWqOjYzvzlo_p7KWfBTdA-3x?usp=sharing)||
 |Sep. 19| Recurrent Neural Networks|[Slides](Lecture/Lecture_09_RNN.pdf)| |
 |Sep. 24| GRU and LSTM || |
 |Sep. 26| NLP Pre-training || |
