@@ -99,7 +99,7 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |||[Example](https://colab.research.google.com/drive/12OTyDqb3mWqOjYzvzlo_p7KWfBTdA-3x?usp=sharing)||
 |Sep. 19| Recurrent Neural Networks|[Slides](Lecture/Lecture_09_RNN.pdf)| |
 |Sep. 24| GRU and LSTM |[Slides](Lecture/Lecture_10_LSTM_and_GRU.pdf)| |
-|Sep. 26| NLP Pre-training || |
+|Sep. 26| NLP Pre-training |[Slides](Lecture/Lecture_11_NLP_Pre_training.pdf)| |
 |Oct. 01| Project Proposal Discussion || |
 |Oct. 03| Project Proposal Discussion || |
 |Oct. 08| Graph Neural Networks || HW2 Review|
