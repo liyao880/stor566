@@ -86,7 +86,7 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 # **Course Material**
 
 | Date | Lecture | Slides | Tutorial|
-|------|------------------|-------:|-------------:|
+|------|------------------|-------:|--------:|
 |Aug. 20| Welcome |[Slides](Lecture/Lecture_01_Course_Overview.pdf)| |
 |Aug. 22| Overview of Machine Learning |[Slides](Lecture/Lecture_02_Overview_of_Machine_Learning.pdf)| [Colab](https://drive.google.com/file/d/1ky_ypXVHpql89OSIMu1M8PF2VRSojVrg/view?usp=sharing)|
 |Aug. 27| Linear Regression and Classification |[Slides](Lecture/Lecture_03_Linear_Regression.pdf)| |
@@ -96,29 +96,28 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Sep. 10| Neural Networks |[Slides](Lecture/Lecture_06_Neural_Networks.pdf)| |
 |Sep. 12| Convolutional Neural Networks I |[Slides](Lecture/Lecture_07_CNN_I.pdf)| |
 |Sep. 17| Convolutional Neural Networks II |[Slides](Lecture/Lecture_08_CNN_II.pdf)| HW1 Review|
-|||[Example](https://colab.research.google.com/drive/12OTyDqb3mWqOjYzvzlo_p7KWfBTdA-3x?usp=sharing)||
-|Sep. 19| Recurrent Neural Networks|[Slides](Lecture/Lecture_09_RNN.pdf)| |
-|Sep. 24| GRU and LSTM |[Slides](Lecture/Lecture_10_LSTM_and_GRU.pdf)| |
-|Sep. 26| NLP Pre-training |[Slides](Lecture/Lecture_11_NLP_Pre_training.pdf)| |
+|Sep. 19|Convolutional Neural Networks III|[Example](https://colab.research.google.com/drive/12OTyDqb3mWqOjYzvzlo_p7KWfBTdA-3x?usp=sharing)|[Presentation 1](Presentation/DeepResidualLearning.pdf)|
+|Sep. 24| Recurrent Neural Networks|[Slides](Lecture/Lecture_09_RNN.pdf)| |
+|Sep. 26| GRU and LSTM |[Slides](Lecture/Lecture_10_LSTM_and_GRU.pdf)| |
 |Oct. 01| Project Proposal Discussion || |
 |Oct. 03| Project Proposal Discussion || |
-|Oct. 08| Graph Neural Networks || HW2 Review|
-|Oct. 10| Generative Models I || |
-|Oct. 15| Generative Models II|| HW3 Review|
+|Oct. 08| NLP Pre-training |[Slides](Lecture/Lecture_11_NLP_Pre_training.pdf)| |
+|Oct. 10| Graph Neural Networks || HW2 Review|
+|Oct. 15| Generative Models I || |
 |Oct. 17| Fall Break || |
-|Oct. 22| Adversarial Attack || |
-|Oct. 24| Adversarial Defense || |
-|Oct. 29| Transformer || HW4 Review |
-|Oct. 31| Vision Transformer || |
-|Nov. 05| Federated Learning || |
-|Nov. 07| Poisoning Attack || HW5 Review|
-|Nov. 12| Large Language Models |||
-|Nov. 14| Computational Pathology || |
-|Nov. 19| Explainable AI || |
+|Oct. 22| Generative Models II|| HW3 Review|
+|Oct. 24| Adversarial Attack || |
+|Oct. 29| Adversarial Defense || |
+|Oct. 31| Transformer || HW4 Review |
+|Nov. 05| Vision Transformer || |
+|Nov. 07| Federated Learning || |
+|Nov. 12| Poisoning Attack || HW5 Review|
+|Nov. 14| Large Language Models |||
+|Nov. 19| Computational Pathology || |
 |Nov. 21| Final Presentation || |
 |Nov. 26| Final Presentation || |
 |Nov. 28| Thanksgiving || |
-|Dec. 03| Fairness || |
+|Dec. 03| Explainable AI || |
 
 
 # **Homework Tracker**
