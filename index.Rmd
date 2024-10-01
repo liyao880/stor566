@@ -101,8 +101,8 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Sep. 26| GRU and LSTM |[Slides](Lecture/Lecture_10_LSTM_and_GRU.pdf)| |
 |Oct. 01| Project Proposal Discussion || |
 |Oct. 03| Project Proposal Discussion || |
-|Oct. 08| NLP Pre-training |[Slides](Lecture/Lecture_11_NLP_Pre_training.pdf)| |
-|Oct. 10| Generative Models I || HW2 Review|
+|Oct. 08| NLP Pre-training |[Slides](Lecture/Lecture_11_NLP_Pre_training.pdf)| Presentation 2|
+|Oct. 10| Generative Models I |[Slides](Lecture/Lecture_12_Generative_Models_I.pdf)| HW2 Review|
 |Oct. 15| Generative Models II || |
 |Oct. 17| Fall Break || |
 |Oct. 22| Adversarial Attack|| HW3 Review|
@@ -125,11 +125,11 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 All homework assignments are to be submitted via **[Canvas](https://edtech.unc.edu/service/canvas/)**. Late homework will receive a grade of **0**.
 
 | Date assigned | Instructions | Due Date (Time) |
-|----------|:--------:|:-------------:|----------------:|
+|----------|:--------:|:-------------:|
 | Aug. 29  | [HW1](https://drive.google.com/drive/folders/1eLEDBbeqPZwN5PViA49rw7y80LoPqEww?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1JctgZulBiKP0aft19oNopkSJF9KR84J2?usp=sharing)) |  Sep. 15 (11:59 PM) |
-| Sep. 12  | [HW2](https://drive.google.com/drive/folders/1SG9W7V2i4yhSzWupKapFwV5qm7KeKVef?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1d-t3fDdkvdC3s5HUV4qn3O-gQ3mH7DwC?usp=sharing)) |  Oct. 2 (11:59 PM) |
-| Sep. 26  |  |  Oct. 06 (11:59 PM) |
-| Oct. 10  |  |  Oct. 20 (11:59 PM) |
+| Sep. 12  | [HW2](https://drive.google.com/drive/folders/1SG9W7V2i4yhSzWupKapFwV5qm7KeKVef?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1d-t3fDdkvdC3s5HUV4qn3O-gQ3mH7DwC?usp=sharing)) |  Oct. 02 (11:59 PM) |
+| Oct. 01  | [HW3](https://drive.google.com/drive/folders/10rEevuA6iatidLyKLy9-rggI6PasI0wW?usp=sharing)([.ipynb](https://colab.research.google.com/drive/137JacA8aCc0-SmhfZrJ9UgoEQI8EgDY6?usp=sharing)) |  Oct. 13 (11:59 PM) |
+| Oct. 13  |  |  Oct. 20 (11:59 PM) |
 | Oct. 22  |  |  Nov. 03 (11:59 PM) |
 |          |        |           |
 
