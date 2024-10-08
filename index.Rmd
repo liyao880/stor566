@@ -102,19 +102,18 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Oct. 01| Project Proposal Discussion || |
 |Oct. 03| Project Proposal Discussion || |
 |Oct. 08| NLP Pre-training |[Slides](Lecture/Lecture_11_NLP_Pre_training.pdf)| Presentation 2|
-|Oct. 10| Generative Models I |[Slides](Lecture/Lecture_12_Generative_Models_I.pdf)| HW2 Review|
-||  |[Example](https://colab.research.google.com/drive/1xS1UwjrI8-hkz4dLrbCIukGxaKclCkWv?usp=sharing)| |
-|Oct. 15| Generative Models II || |
+|Oct. 10| Generative Models |[Slides](Lecture/Lecture_12_Generative_Models_I.pdf)| |
+|Oct. 15| Online Tutorial |[Example](https://colab.research.google.com/drive/1xS1UwjrI8-hkz4dLrbCIukGxaKclCkWv?usp=sharing)| HW2 Review|
 |Oct. 17| Fall Break || |
-|Oct. 22| Adversarial Attack|| HW3 Review|
+|Oct. 22| Adversarial Attack|| |
 |Oct. 24| Adversarial Defense || |
 |Oct. 29| Transformer || |
-|Oct. 31| Vision Transformer || HW4 Review |
+|Oct. 31| Vision Transformer || HW3 Review |
 |Nov. 05| Federated Learning || |
 |Nov. 07| Poisoning Attack || |
-|Nov. 12| Poisoning Defense || HW5 Review|
+|Nov. 12| Poisoning Defense || HW4 Review|
 |Nov. 14| Large Language Models |||
-|Nov. 19| Computational Pathology || |
+|Nov. 19| Neural Architecture Search ||HW5 Review |
 |Nov. 21| Final Presentation || |
 |Nov. 26| Final Presentation || |
 |Nov. 28| Thanksgiving || |
