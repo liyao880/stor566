@@ -105,8 +105,8 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Oct. 10| Generative Models |[Slides](Lecture/Lecture_12_Generative_Models_I.pdf)| |
 |Oct. 15| Online Tutorial |[Zoom](https://unc.zoom.us/j/94946966524)| [Tutorial 2](https://colab.research.google.com/drive/1xS1UwjrI8-hkz4dLrbCIukGxaKclCkWv?usp=sharing)|
 |Oct. 17| Fall Break || |
-|Oct. 22| Adversarial Attack|| |
-|Oct. 24| Adversarial Defense || |
+|Oct. 22| Adversarial Attack|[Slides](Lecture/Lecture_14_Adversarial_Attack.pdf)| |
+|Oct. 24| Adversarial Defense |[Slides](Lecture/Lecture_15_Adversarial_Defense.pdf)| |
 |Oct. 29| Transformer || |
 |Oct. 31| Vision Transformer || HW3 Review |
 |Nov. 05| Federated Learning || |
