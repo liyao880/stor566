@@ -107,7 +107,7 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Oct. 17| Fall Break || |
 |Oct. 22| Adversarial Attack|[Slides](Lecture/Lecture_14_Adversarial_Attack.pdf)| |
 |Oct. 24| Adversarial Defense |[Slides](Lecture/Lecture_15_Adversarial_Defense.pdf)| |
-|Oct. 29| Transformer || |
+|Oct. 29| Transformer |[Slides](Lecture/Lecture_17_Transformer.pdf)| |
 |Oct. 31| Vision Transformer || HW3 Review |
 |Nov. 05| Federated Learning || |
 |Nov. 07| Poisoning Attack || |
