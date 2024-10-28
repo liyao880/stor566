@@ -86,7 +86,7 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 # **Course Material**
 
 | Date | Lecture | Slides | Tutorial|
-|------|------------------|-------:|--------:|
+|------|-----------------------|-------:|--------:|
 |Aug. 20| Welcome |[Slides](Lecture/Lecture_01_Course_Overview.pdf)| |
 |Aug. 22| Overview of Machine Learning |[Slides](Lecture/Lecture_02_Overview_of_Machine_Learning.pdf)| [Colab](https://drive.google.com/file/d/1ky_ypXVHpql89OSIMu1M8PF2VRSojVrg/view?usp=sharing)|
 |Aug. 27| Linear Regression and Classification |[Slides](Lecture/Lecture_03_Linear_Regression.pdf)| |
@@ -106,18 +106,18 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Oct. 15| Online Tutorial |[Zoom](https://unc.zoom.us/j/94946966524)| [Tutorial 2](https://colab.research.google.com/drive/1xS1UwjrI8-hkz4dLrbCIukGxaKclCkWv?usp=sharing)|
 |Oct. 17| Fall Break || |
 |Oct. 22| Adversarial Attack|[Slides](Lecture/Lecture_14_Adversarial_Attack.pdf)| |
-|Oct. 24| Adversarial Defense |[Slides](Lecture/Lecture_15_Adversarial_Defense.pdf)| |
-|Oct. 29| Transformer |[Slides](Lecture/Lecture_17_Transformer.pdf)| |
-|Oct. 31| Vision Transformer || HW3 Review |
-|Nov. 05| Federated Learning || |
-|Nov. 07| Poisoning Attack || |
-|Nov. 12| Poisoning Defense || HW4 Review|
-|Nov. 14| Large Language Models |||
-|Nov. 19| Neural Architecture Search ||HW5 Review |
-|Nov. 21| Final Presentation || |
+|Oct. 24| Networks Opinions (Guest Presentation) |[Slides](Lecture/Networks_Opinions.pdf)| |
+|Oct. 29| Adversarial Defense |[Slides](Lecture/Lecture_15_Adversarial_Defense.pdf)| |
+|Oct. 31| Transformer |[Slides](Lecture/Lecture_17_Transformer.pdf)| |
+|Nov. 05| Vision Transformer || HW3 Review |
+|Nov. 07| Federated Learning || |
+|Nov. 12| Poisoning Attack || |
+|Nov. 14| Poisoning Defense || HW4 Review|
+|Nov. 19| Large Language Models |||
+|Nov. 21| Neural Architecture Search ||HW5 Review |
 |Nov. 26| Final Presentation || |
 |Nov. 28| Thanksgiving || |
-|Dec. 03| Explainable AI || |
+|Dec. 03| Final Presentation || |
 
 
 # **Homework Tracker**
@@ -129,8 +129,8 @@ All homework assignments are to be submitted via **[Canvas](https://edtech.unc.e
 | Aug. 29  | [HW1](https://drive.google.com/drive/folders/1eLEDBbeqPZwN5PViA49rw7y80LoPqEww?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1JctgZulBiKP0aft19oNopkSJF9KR84J2?usp=sharing)) |  Sep. 15 (11:59 PM) |
 | Sep. 12  | [HW2](https://drive.google.com/drive/folders/1SG9W7V2i4yhSzWupKapFwV5qm7KeKVef?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1d-t3fDdkvdC3s5HUV4qn3O-gQ3mH7DwC?usp=sharing)) |  Oct. 02 (11:59 PM) |
 | Oct. 01  | [HW3](https://drive.google.com/drive/folders/10rEevuA6iatidLyKLy9-rggI6PasI0wW?usp=sharing)([.ipynb](https://colab.research.google.com/drive/137JacA8aCc0-SmhfZrJ9UgoEQI8EgDY6?usp=sharing)) |  Oct. 13 (11:59 PM) |
-| Oct. 13  | [HW4](https://drive.google.com/drive/folders/1qgJzqdm_TLh6KgKovG_9sxT5qLsJQ-jU?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1M4ixWZtzj6mUkKm6U8fH0jICBHk2OClt?usp=sharing)) |  Oct. 27 (11:59 PM) |
-| Oct. 22  |  |  Nov. 03 (11:59 PM) |
+| Oct. 13  | [HW4](https://drive.google.com/drive/folders/1qgJzqdm_TLh6KgKovG_9sxT5qLsJQ-jU?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1M4ixWZtzj6mUkKm6U8fH0jICBHk2OClt?usp=sharing)) |  Oct. 30 (11:59 PM) |
+| Oct. 29  |  |  Nov. 10 (11:59 PM) |
 |          |        |           |
 
 # **Final Project Details**
