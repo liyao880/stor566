@@ -108,7 +108,7 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Oct. 22| Adversarial Attack|[Slides](Lecture/Lecture_14_Adversarial_Attack.pdf)| |
 |Oct. 24| Networks Opinions (Guest Presentation) |[Slides](Lecture/Networks_Opinions.pdf)| |
 |Oct. 29| Adversarial Defense |[Slides](Lecture/Lecture_15_Adversarial_Defense.pdf)| |
-|Oct. 31| Transformer |[Slides](Lecture/Lecture_17_Transformer.pdf)| |
+|Oct. 31| Transformer |[Slides](Lecture/Lecture_16_Transformer.pdf)| |
 |Nov. 05| Vision Transformer || HW3 Review |
 |Nov. 07| Federated Learning || |
 |Nov. 12| Poisoning Attack || |
