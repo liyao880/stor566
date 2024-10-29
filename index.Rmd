@@ -96,21 +96,21 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Sep. 10| Neural Networks |[Slides](Lecture/Lecture_06_Neural_Networks.pdf)| |
 |Sep. 12| Convolutional Neural Networks I |[Slides](Lecture/Lecture_07_CNN_I.pdf)| |
 |Sep. 17| Convolutional Neural Networks II |[Slides](Lecture/Lecture_08_CNN_II.pdf)| HW1 Review|
-|Sep. 19|Convolutional Neural Networks III|[Tutorial 1](https://colab.research.google.com/drive/12OTyDqb3mWqOjYzvzlo_p7KWfBTdA-3x?usp=sharing)|[Presentation 1](Presentation/DeepResidualLearning.pdf)|
+|Sep. 19|Convolutional Neural Networks III|[Tutorial 1](https://colab.research.google.com/drive/12OTyDqb3mWqOjYzvzlo_p7KWfBTdA-3x?usp=sharing)|[ResNet](Presentation/DeepResidualLearning.pdf)|
 |Sep. 24| Recurrent Neural Networks|[Slides](Lecture/Lecture_09_RNN.pdf)| |
 |Sep. 26| GRU and LSTM |[Slides](Lecture/Lecture_10_LSTM_and_GRU.pdf)| |
 |Oct. 01| Project Proposal Discussion || |
 |Oct. 03| Project Proposal Discussion || |
-|Oct. 08| NLP Pre-training |[Slides](Lecture/Lecture_11_NLP_Pre_training.pdf)| [Presentation 2](Presentation/Word2Vec.pdf)|
-|Oct. 10| Generative Models |[Slides](Lecture/Lecture_12_Generative_Models_I.pdf)| |
+|Oct. 08| NLP Pre-training |[Slides](Lecture/Lecture_11_NLP_Pre_training.pdf)| [Word2Vec](Presentation/Word2Vec.pdf)|
+|Oct. 10| Generative Models |[Slides](Lecture/Lecture_12_Generative_Models_I.pdf)|[GAN](Presentation/GAN.pdf) |
 |Oct. 15| Online Tutorial |[Zoom](https://unc.zoom.us/j/94946966524)| [Tutorial 2](https://colab.research.google.com/drive/1xS1UwjrI8-hkz4dLrbCIukGxaKclCkWv?usp=sharing)|
 |Oct. 17| Fall Break || |
 |Oct. 22| Adversarial Attack|[Slides](Lecture/Lecture_14_Adversarial_Attack.pdf)| |
 |Oct. 24| Networks Opinions (Guest Presentation) |[Slides](Lecture/Networks_Opinions.pdf)| |
 |Oct. 29| Adversarial Defense |[Slides](Lecture/Lecture_15_Adversarial_Defense.pdf)| |
-|Oct. 31| Transformer |[Slides](Lecture/Lecture_16_Transformer.pdf)| |
-|Nov. 05| Vision Transformer || HW3 Review |
-|Nov. 07| Federated Learning || |
+|Oct. 31| Transformer |[Slides](Lecture/Lecture_16_Transformer.pdf)|BERT |
+|Nov. 05| Vision Transformer |[Slides](Lecture/Lecture_17_Transformers_for_Vision.pdf)| HW3 Review |
+|Nov. 07| Federated Learning || pFL|
 |Nov. 12| Poisoning Attack || |
 |Nov. 14| Poisoning Defense || HW4 Review|
 |Nov. 19| Large Language Models |||
