@@ -86,7 +86,7 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 # **Course Material**
 
 | Date | Lecture | Slides | Tutorial|
-|------|-----------------------|-------:|--------:|
+|------|-----------------------|-------:|----------:|
 |Aug. 20| Welcome |[Slides](Lecture/Lecture_01_Course_Overview.pdf)| |
 |Aug. 22| Overview of Machine Learning |[Slides](Lecture/Lecture_02_Overview_of_Machine_Learning.pdf)| [Colab](https://drive.google.com/file/d/1ky_ypXVHpql89OSIMu1M8PF2VRSojVrg/view?usp=sharing)|
 |Aug. 27| Linear Regression and Classification |[Slides](Lecture/Lecture_03_Linear_Regression.pdf)| |
@@ -112,9 +112,9 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Nov. 05| Vision Transformer |[Slides](Lecture/Lecture_17_Transformers_for_Vision.pdf)| HW3 Review |
 |Nov. 07| Federated Learning || pFL|
 |Nov. 12| Poisoning Attack || |
-|Nov. 14| Poisoning Defense || HW4 Review|
+|Nov. 14| Poisoning Defense || HW4&5 Review|
 |Nov. 19| Large Language Models |||
-|Nov. 21| Neural Architecture Search ||HW5 Review |
+|Nov. 21| Final Project Work Day || |
 |Nov. 26| Final Presentation || |
 |Nov. 28| Thanksgiving || |
 |Dec. 03| Final Presentation || |
