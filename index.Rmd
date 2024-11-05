@@ -111,8 +111,8 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 |Oct. 31| Transformer |[Slides](Lecture/Lecture_16_Transformer.pdf)|[BERT](Presentation/BERT.pdf) |
 |Nov. 05| Vision Transformer |[Slides](Lecture/Lecture_17_Transformers_for_Vision.pdf)| HW3 Review |
 |Nov. 07| Federated Learning |[Slides](Lecture/Lecture_18_Federated_Learning.pdf)| pFL|
-|Nov. 12| Poisoning Attack || |
-|Nov. 14| Poisoning Defense || HW4&5 Review|
+|Nov. 12| Poisoning Attack |[Slides](Lecture/Lecture_19_Poisoning_and_Backdoor_Attack.pdf)| |
+|Nov. 14| Poisoning Defense |[Slides](Lecture/Lecture_20_Backdoor_Defense.pdf)| HW4&5 Review|
 |Nov. 19| Large Language Models |||
 |Nov. 21| Final Project Work Day || |
 |Nov. 26| Final Presentation || |
