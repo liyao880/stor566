@@ -166,7 +166,9 @@ I will meet with each group to discuss the final project topic. Project topics c
 See latex template at [link](https://drive.google.com/file/d/16uQ-fbVysshhh13xvnpNy5GYPAMcplDK/view?usp=sharing).
 
 **P2: Project Presentation** *(30 Points):* All groups will present their final projects during the last week or two weeks of classes. Every group member is expected to join the presentation. The length of the presentation depends on the number of groups (10–20min) and will be announced later.
-    
+
+You can find the presentation slides of all the groups at [here](https://drive.google.com/drive/folders/1ExvGJwXaQfOHYrbFjsU79BnPKvq5rUJm?usp=sharing).
+
 **P3: Project Paper** *(50 Points):* Each team must submit a written project report. It is recommended to include a discussion of how your research work can be further extended. It is required to use the [NeurIPS Latex style files](https://neurips.cc/Conferences/2022/PaperInformation/StyleFiles) and submit the report in PDF format. The report should be less than 8 pages without references (no minimum requirement).
 
 **P4: Peer Score** *(10 Points):* Ten points of the final project is based on an average score measuring overall contribution as seen by you and the other members of your group. Each group member should score every person in their group on a continuous scale from 0 (Bad) to 10 (Good). Before the due date of the final paper, every member is required to submit the group scoring through the google survey link below. Your name and this information will remain private between me and you. If you fail to submit this group scoring before the deadline, 2 points penalty will be applied and I will give the other members a score of 10.
