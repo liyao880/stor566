@@ -72,52 +72,52 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 
 - Instructor: **[Yao Li](https://liyao880.github.io/yaoli/)**
 
-- Teaching Assistant: **[Kyung Rok Kim](https://stor.unc.edu/people/graduate-students/)**
+- Teaching Assistant: **[ ](https://stor.unc.edu/people/graduate-students/)**
 
-- Grader: **Chengze Xie**
+- Grader: ** **
     
 - Class: TTH 3:30PM-4:45PM, Hanes 120
     
 - Office Hours:
     - Instructor Office Hours: W 4:00PM-5:00PM, Hanes 334
-    - TA Office Hours: M 10:00AM-12:00PM, [Zoom]()
+    - TA Office Hours: M 10:00AM-12:00PM, 
 
 
 # **Course Material**
 
 | Date | Lecture | Slides | Tutorial|
 |------|-----------------------|-------:|----------:|
-|Aug. 20| Welcome || |
-|Aug. 22| Overview of Machine Learning || |
-|Aug. 27| Linear Regression and Classification || |
-|Aug. 29| Optimization || |
-|Sep. 03| Well-Being Day || |
-|Sep. 05| Kernel Methods || |
-|Sep. 10| Neural Networks || |
-|Sep. 12| Convolutional Neural Networks I || |
-|Sep. 17| Convolutional Neural Networks II || |
-|Sep. 19|Convolutional Neural Networks III || |
-|Sep. 24| Recurrent Neural Networks || |
-|Sep. 26| GRU and LSTM || |
-|Oct. 01| Project Proposal Discussion || |
-|Oct. 03| Project Proposal Discussion || |
-|Oct. 08| NLP Pre-training || |
-|Oct. 10| Generative Models || |
-|Oct. 15| Online Tutorial || |
-|Oct. 17| Fall Break || |
-|Oct. 22| Adversarial Attack|| |
-|Oct. 24| Networks Opinions || |
-|Oct. 29| Adversarial Defense || |
-|Oct. 31| Transformer || |
-|Nov. 05| Vision Transformer || |
-|Nov. 07| Federated Learning || |
-|Nov. 12| Poisoning Attack || |
-|Nov. 14| Poisoning Defense || |
-|Nov. 19| Large Language Models || |
-|Nov. 21| Final Project Work Day || |
-|Nov. 26| Final Presentation || |
-|Nov. 28| Thanksgiving || |
-|Dec. 03| Final Presentation || |
+|Aug. 19| Welcome || |
+|Aug. 21| Overview of Machine Learning || |
+|Aug. 26| Linear Regression and Classification || |
+|Aug. 28| Optimization || |
+|Sep. 02| Neural Networks || |
+|Sep. 04| Convolutional Neural Networks I || |
+|Sep. 09| Convolutional Neural Networks II || |
+|Sep. 11| Recurrent Neural Networks || |
+|Sep. 16| GRU and LSTM || |
+|Sep. 18| NLP Pre-training || |
+|Sep. 23| Project Proposal Discussion || |
+|Sep. 25| Project Proposal Discussion || |
+|Sep. 30| Transformer || |
+|Oct. 02| Vision Transformer || |
+|Oct. 07| Well-Being Day || |
+|Oct. 09| Generative Models I || |
+|Oct. 14| Generative Models II || |
+|Oct. 16| Fall Break || |
+|Oct. 21| Adversarial Attack|| |
+|Oct. 23| Adversarial Defense || |
+|Oct. 28| Federated Learning || |
+|Oct. 30| Poisoning Attack || |
+|Nov. 04| Poisoning Defense  || |
+|Nov. 06| Explainable AI || |
+|Nov. 11| Large Language Models || |
+|Nov. 13| Mutimodal LLM || |
+|Nov. 18| LLM Security || |
+|Nov. 20| Final Presentation || |
+|Nov. 25| Final Presentation || |
+|Nov. 27| Thanksgiving || |
+|Dec. 02| Final Presentation || |
 
 
 # **Homework Tracker**
@@ -126,11 +126,12 @@ All homework assignments are to be submitted via **[Canvas](https://edtech.unc.e
 
 | Date assigned | Instructions | Due Date (Time) |
 |----------|:--------:|:-------------:|
-| Aug. 29  | [HW1]()([.ipynb]())  |  Sep. 15 (11:59 PM) |
-| Sep. 12  | [HW2]()([.ipynb]()) |  Oct. 02 (11:59 PM) |
-| Oct. 01  | [HW3]()([.ipynb]())  |  Oct. 13 (11:59 PM) |
-| Oct. 13  | [HW4]()([.ipynb]())  |  Oct. 30 (11:59 PM) |
-| Oct. 29  | [HW5]()([.ipynb]()) |  Nov. 10 (11:59 PM) |
+| Aug. 28  | [HW1]()([.ipynb]())  |  Sep. 07 (11:59 PM) |
+| Sep. 09  | [HW2]()([.ipynb]()) |  Sep. 21 (11:59 PM) |
+| Sep. 18  | [HW3]()([.ipynb]())  |  Oct. 05 (11:59 PM) |
+| Oct. 05  | [HW4]()([.ipynb]())  |  Oct. 19 (11:59 PM) |
+| Oct. 19  | [HW5]()([.ipynb]()) |  Nov. 02 (11:59 PM) |
+| Nov. 02  | [HW6]()([.ipynb]()) |  Nov. 16 (11:59 PM) |
 |          |        |           |
 
 # **Final Project Details**
@@ -144,7 +145,7 @@ This course includes a final project in lieu of a final exam. Projects will be c
 
 ## Group List
 
-Please form the final project group before **August 30th**, and sign up using the shared **[spreadsheet]()**. Please don't modify the information of other groups.
+Please form the final project group before **August 31st**, and sign up using the shared **[spreadsheet]()**. Please don't modify the information of other groups.
 
 ## Four Parts Including Point Values
 
@@ -180,12 +181,12 @@ You can find the presentation slides of all the groups at [here](https://drive.g
 
 | Part | Description |Method (Location) of Submission| Due Date (Time) |
 |------|-------------|-------------|---------------------:|
-| P1  | Project Proposal | Canvas | Sep. 29 (11:59PM)|
-|   | Proposal Meeting | Hanes 334 | Oct. 01 / Oct. 03 (3:30PM-4:45PM)|
+| P1  | Project Proposal | Canvas | Sep. 21 (11:59PM)|
+|   | Proposal Meeting | Hanes 334 | Sep. 23 / Sep. 25 (Lecture Time)|
 | P2  | Presentation Slides |Canvas| Nov. 20 / Nov. 25 (11:59PM)|
-|   | Final Presentation|Class| Nov. 21 / Nov. 26 (3:30PM-4:45PM)|
-| P3  | Final Report|Canvas|Dec. 04 (11:59PM)|
-| P4  | Peer Scoring|[Google Survey]()|Dec. 04 (11:59PM)|
+|   | Final Presentation|Class| Nov. 20 / Nov. 25 / Dec. 02 (Lecture Tim)|
+| P3  | Final Report|Canvas|Dec. 05 (11:59PM)|
+| P4  | Peer Scoring|[Google Survey]()|Dec. 05 (11:59PM)|
 
 # **Paper Presentation**
 
