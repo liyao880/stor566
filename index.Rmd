@@ -88,32 +88,32 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 | Date | Lecture | Slides | Tutorial|
 |------|-----------------------|-------:|----------:|
 |Aug. 19| Welcome || |
-|Aug. 21| Overview of Machine Learning || |
+|Aug. 21| Overview of Machine Learning ||Tutorial 1 |
 |Aug. 26| Linear Regression and Classification || |
-|Aug. 28| Optimization || |
-|Sep. 02| Neural Networks || |
-|Sep. 04| Convolutional Neural Networks I || |
-|Sep. 09| Convolutional Neural Networks II ||ResNet |
-|Sep. 11| Recurrent Neural Networks || |
-|Sep. 16| GRU and LSTM || |
-|Sep. 18| NLP Pre-training || Word2Vec|
+|Aug. 28| Optimization ||  |
+|Sep. 02| Optimization || Tutorial 2|
+|Sep. 04| Neural Networks || |
+|Sep. 09| Convolutional Neural Networks I || |
+|Sep. 11| Convolutional Neural Networks II || ResNet|
+|Sep. 16| Recurrent Neural Networks || |
+|Sep. 18| GRU and LSTM || |
 |Sep. 23| Project Proposal Discussion || |
 |Sep. 25| Project Proposal Discussion || |
-|Sep. 30| Transformer || |
-|Oct. 02| Vision Transformer ||BERT |
+|Sep. 30| NLP Pre-training || Word2Vec|
+|Oct. 02| Transformer || |
 |Oct. 07| Well-Being Day || |
-|Oct. 09| Generative Models I || |
-|Oct. 14| Generative Models II ||DDPM |
+|Oct. 09| Vision Transformer || |
+|Oct. 14| BERT || Tutorial 3 |
 |Oct. 16| Fall Break || |
-|Oct. 21| Generative Models III ||CLIP |
-|Oct. 23| Adversarial Attack || |
-|Oct. 28| Adversarial Defense || |
-|Oct. 30| Poisoning Attack || |
-|Nov. 04| Poisoning Defense  || |
+|Oct. 21| Generative Models I || |
+|Oct. 23| Generative Models II || DDPM |
+|Oct. 28| Generative Models III ||CLIP |
+|Oct. 30| Adversarial Attack || |
+|Nov. 04| Backdoor Learning  ||Tutorial 4 |
 |Nov. 06| Explainable AI || |
-|Nov. 11| Large Language Models || |
-|Nov. 13| Mutimodal LLM || Mini GPT4 |
-|Nov. 18| LLM Security || Jailbreak|
+|Nov. 11| LLM I|| |
+|Nov. 13| LLM II || Tutorial 5 |
+|Nov. 18| Multimodal LLM ||Mini GPT4|
 |Nov. 20| Final Presentation || |
 |Nov. 25| Final Presentation || |
 |Nov. 27| Thanksgiving || |
