@@ -126,7 +126,7 @@ All homework assignments are to be submitted via **[Canvas](https://edtech.unc.e
 
 | Date assigned | Instructions | Due Date (Time) |
 |----------|:--------:|:-------------:|
-| Aug. 28  | [HW1]()([.ipynb](https://colab.research.google.com/drive/1JctgZulBiKP0aft19oNopkSJF9KR84J2?usp=sharing))  |  Sep. 07 (11:59 PM) |
+| Aug. 28  | [HW1](https://drive.google.com/drive/folders/1eLEDBbeqPZwN5PViA49rw7y80LoPqEww?usp=sharing)([.ipynb](https://colab.research.google.com/drive/1JctgZulBiKP0aft19oNopkSJF9KR84J2?usp=sharing))  |  Sep. 07 (11:59 PM) |
 | Sep. 09  | HW2 |  Sep. 21 (11:59 PM) |
 | Sep. 18  | HW3  |  Oct. 05 (11:59 PM) |
 | Oct. 05  | HW4  |  Oct. 19 (11:59 PM) |
