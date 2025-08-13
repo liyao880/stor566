@@ -145,7 +145,7 @@ This course includes a final project in lieu of a final exam. Projects will be c
 
 ## Group List
 
-Please form the final project group before **August 31st**, and sign up using the shared **[spreadsheet]()**. Please don't modify the information of other groups.
+Please form the final project group before **August 31st**, and sign up using the shared **[spreadsheet](https://docs.google.com/spreadsheets/d/1zvf1n_apfxo_Y3P3dFayzZktetWiwbsmiqaz8alpKCs/edit?usp=sharing)**. Please don't modify the information of other groups.
 
 ## Four Parts Including Point Values
 
@@ -180,11 +180,11 @@ You can find the presentation slides of all the groups at [here](https://drive.g
 ## Due Dates of Individual Parts
 
 | Part | Description |Method (Location) of Submission| Due Date (Time) |
-|------|-------------|-------------|---------------------:|
+|----|-------------|-------------|------------------------:|
 | P1  | Project Proposal | Canvas | Sep. 21 (11:59PM)|
 |   | Proposal Meeting | Hanes 334 | Sep. 23 / Sep. 25 (Lecture Time)|
-| P2  | Presentation Slides |Canvas| Nov. 20 / Nov. 25 (11:59PM)|
-|   | Final Presentation|Class| Nov. 20 / Nov. 25 / Dec. 02 (Lecture Tim)|
+| P2  | Presentation Slides |Canvas| Nov. 19 / Nov. 24 / Dec. 01 (11:59PM)|
+|   | Final Presentation|Class| Nov. 20 / Nov. 25 / Dec. 02 (Lecture time)|
 | P3  | Final Report|Canvas|Dec. 05 (11:59PM)|
 | P4  | Peer Scoring|[Google Survey]()|Dec. 05 (11:59PM)|
 
