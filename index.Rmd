@@ -79,7 +79,7 @@ See the **[syllabus](Syllabi/566_Syllabus.pdf)** for details. Deep neural networ
 - Class: TTH 8:00AM-9:15AM, Hanes 125
     
 - Office Hours:
-    - Instructor Office Hours: W 11:00AM-12:00AM, Hanes 334
+    - Instructor Office Hours: W 11:00AM-12:00PM, Hanes 334
     - TA Office Hours: MF 2:00PM-3:00PM, [Zoom](https://unc.zoom.us/j/99440603579)
 
 
