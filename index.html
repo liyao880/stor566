@@ -127,6 +127,12 @@ Lee</a></strong></p></li>
 <div id="course-material" class="section level1">
 <h1><strong>Course Material</strong></h1>
 <table>
+<colgroup>
+<col width="12%" />
+<col width="47%" />
+<col width="16%" />
+<col width="22%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th>Date</th>
@@ -139,14 +145,15 @@ Lee</a></strong></p></li>
 <tr class="odd">
 <td>Aug. 19</td>
 <td>Welcome</td>
-<td align="right"></td>
+<td align="right"><a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1ZLgMuarDhe2nHdk-3QTcPywXgPbZU_Cq/view?usp=sharing">Slides</a></td>
 <td align="right"></td>
 </tr>
 <tr class="even">
 <td>Aug. 21</td>
 <td>Overview of Machine Learning</td>
-<td align="right"></td>
-<td align="right">Tutorial 1</td>
+<td align="right"><a href="#" class="protected-link" data-url="https://drive.google.com/file/d/12ORJB-QKOXnN2vs4HpocRbtzpf8Qk-8f/view?usp=sharing">Slides</a></td>
+<td align="right"><a href="#" class="protected-link" data-url="https://drive.google.com/file/d/1ky_ypXVHpql89OSIMu1M8PF2VRSojVrg/view?usp=sharing">Tutorial
+1</a></td>
 </tr>
 <tr class="odd">
 <td>Aug. 26</td>
@@ -524,8 +531,26 @@ and Ameet Talwalkar.</li>
 optimization</a></strong>, by Stephen Boyd, and Lieven
 Vandenberghe.</li>
 </ul>
-<p>This page was last updated on 2025-08-13 11:33:39.396567 Eastern
+<p>This page was last updated on 2025-08-13 12:09:01.312322 Eastern
 Time.</p>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const correctPassword = "hanes334"; // Set your password here
+    const links = document.getElementsByClassName("protected-link");
+
+    for (let i = 0; i < links.length; i++) {
+      links[i].addEventListener("click", function(event) {
+        event.preventDefault(); // Prevent the default action of the link
+        const userPassword = prompt("Enter the password to access this link:");
+        if (userPassword === correctPassword) {
+          window.open(this.getAttribute("data-url"), "_blank"); // Open the link in a new tab
+        } else {
+          alert("Incorrect password. Access denied.");
+        }
+      });
+    }
+  });
+</script>
 </div>
     </section>
   </div>
